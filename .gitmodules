@@ -44,7 +44,6 @@
 [submodule "libs/onepress/api"]
 	path = libs/onepress/api
 	url = ssh://git@bitbucket.org/webcraftic/wp-plugins-factory-api
-	
-[submodule "libs/factory/notices"]
-	path = libs/factory/notices
-	url = ssh://git@bitbucket.org/webcraftic/wp-plugins-factory-notices/
+[submodule "panda-items/email-locker"]
+	path = panda-items/email-locker
+	url = ssh://git@bitbucket.org/webcraftic/wp-plugins-module-emaillocker
