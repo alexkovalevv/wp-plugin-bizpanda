@@ -1,0 +1,46 @@
+{
+  "buttons_pack": {
+    "categories": [
+      "sociallocker"
+    ],
+    "title": "Social Buttons Pack",
+    "image_url": "http://cconp.s3.amazonaws.com/addons/addon-buttons-pack-preview.jpg",
+    "description": "Extra Social Buttons for Social Locker. Includes: Instagram, Pinterest, VKontakte, Livejournal, Draugiem, Moy Mir, Odnoklassniki.",
+    "version": "1.0.0",
+    "url": ""
+  },
+  "popups": {
+    "categories": [
+      "sociallocker",
+      "optin-panda",
+      "paylocker"
+    ],
+    "title": "Popups Lockers",
+    "image_url": "http://cconp.s3.amazonaws.com/addons/addon-popup-mode-preview.jpg",
+    "description": "Adds option to display lockers inside a popup window. Provides flexible settings of conditions when popups have to be shown.",
+    "version": "1.0.0",
+    "url": ""
+  },
+  "step-to-step": {
+    "categories": [
+      "sociallocker",
+      "optin-panda"
+    ],
+    "image_url": "http://cconp.s3.amazonaws.com/addons/addon-step-to-step-preview.jpg",
+    "title": "Step-by-Step",
+    "description": "Allows to create a complex locker merging several lockers that asks a visitor to pass though all the steps to unlock hidden content.",
+    "version": "1.0.0",
+    "url": ""
+  },
+  "themes_pack": {
+    "categories": [
+      "sociallocker",
+      "optin-panda"
+    ],
+    "image_url": "https://www.cozmoslabs.com/wp-content/uploads/2016/04/full_addon_pms_email_reminder.png",
+    "title": "Extended Theme Pack",
+    "description": "Brand new themes working perfectly on mobile. Includes support for step-by-step and popup add-ons.",
+    "version": "1.0.0",
+    "url": ""
+  }
+}

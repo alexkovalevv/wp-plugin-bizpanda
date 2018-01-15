@@ -1,0 +1,5034 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2015-07-01 16:04+0300\n"
+"PO-Revision-Date: 2015-07-01 16:15+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: tr_TR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.6\n"
+"X-Poedit-Basepath: E:\\cloud\\Dropbox\\OnePress\\Products\\Topic\\Plugin - "
+"Sosyal Hasat\\wp-content\\plugins\\sosyalhasat\\bizpanda\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/ajax/stats.php:46
+msgid "Item ID is not specified."
+msgstr ""
+
+#: admin/bulk-lock.php:79 includes/metaboxes/bulk-locking.php:203
+msgid "Every post will be locked entirely."
+msgstr ""
+
+#: admin/bulk-lock.php:82 includes/metaboxes/bulk-locking.php:206
+msgid "Every post will be locked entirely except the first paragraph."
+msgstr ""
+
+#: admin/bulk-lock.php:85 includes/metaboxes/bulk-locking.php:156
+#: includes/metaboxes/bulk-locking.php:209
+#, php-format
+msgid ""
+"Every post will be locked entirely except %s paragraphs placed at the "
+"beginning."
+msgstr ""
+
+#: admin/bulk-lock.php:90 includes/metaboxes/bulk-locking.php:214
+msgid "Content placed after the More Tag will be locked in every post."
+msgstr ""
+
+#: admin/bulk-lock.php:94
+msgid "Every content matching the CSS selector will be locked on every page:"
+msgstr ""
+
+#: admin/bulk-lock.php:100 includes/metaboxes/bulk-locking.php:159
+#: includes/metaboxes/bulk-locking.php:224
+#, php-format
+msgid "Applies to types: %s"
+msgstr ""
+
+#: admin/bulk-lock.php:103 includes/metaboxes/bulk-locking.php:162
+#: includes/metaboxes/bulk-locking.php:227
+#, php-format
+msgid "Excludes posts: %s"
+msgstr ""
+
+#: admin/bulk-lock.php:106 includes/metaboxes/bulk-locking.php:165
+#: includes/metaboxes/bulk-locking.php:230
+#, php-format
+msgid "Excludes categories: %s"
+msgstr ""
+
+#: admin/helpers.php:43
+#, php-format
+msgid ""
+"<i class=\"fa fa-star-o\"></i> <strong>Go Premium</strong> <i class=\"fa fa-"
+"star-o\"></i><br />To Unlock These Features<br /><a href=\"%s\" class="
+"\"opnada-button\" target=\"_blank\">Learn More</a>"
+msgstr ""
+
+#: admin/includes/classes/class.leads.table.php:7
+msgid "Lead"
+msgstr ""
+
+#: admin/includes/classes/class.leads.table.php:8 admin/pages/leads.php:66
+msgid "Leads"
+msgstr ""
+
+#: admin/includes/classes/class.leads.table.php:25 admin/pages/leads.php:486
+msgid "All"
+msgstr ""
+
+#: admin/includes/classes/class.leads.table.php:31
+msgid "Confirmed"
+msgstr ""
+
+#: admin/includes/classes/class.leads.table.php:37
+msgid "Not Confirmed"
+msgstr ""
+
+#: admin/includes/classes/class.leads.table.php:53
+msgid "No leads found. "
+msgstr ""
+
+#: admin/includes/classes/class.leads.table.php:99
+#: admin/pages/how-to-use/twitter-app.php:35
+msgid "Name"
+msgstr "İsim"
+
+#: admin/includes/classes/class.leads.table.php:100
+msgid "Channel"
+msgstr ""
+
+#: admin/includes/classes/class.leads.table.php:101
+msgid "Added"
+msgstr ""
+
+#: admin/includes/classes/class.leads.table.php:102
+msgid "Status"
+msgstr ""
+
+#: admin/includes/classes/class.leads.table.php:122
+msgid "Delete"
+msgstr ""
+
+#: admin/includes/classes/class.leads.table.php:343
+msgid "(unknown)"
+msgstr ""
+
+#: admin/includes/classes/class.leads.table.php:350
+#, php-format
+msgid "Via: %s"
+msgstr ""
+
+#: admin/includes/classes/class.leads.table.php:362
+msgid "(no title)"
+msgstr ""
+
+#: admin/includes/classes/class.leads.table.php:364
+#, php-format
+msgid "On Page: %s"
+msgstr ""
+
+#: admin/includes/classes/class.leads.table.php:392
+msgid ""
+"This email is real. It was received from social networks or the user "
+"confirmed it by clicking on the link inside the confirmation email."
+msgstr ""
+
+#: admin/includes/classes/class.leads.table.php:393
+#: admin/includes/classes/class.leads.table.php:397
+#: admin/includes/classes/class.leads.table.php:417
+#: admin/includes/classes/class.leads.table.php:421
+msgid "email"
+msgstr ""
+
+#: admin/includes/classes/class.leads.table.php:396
+#: admin/includes/classes/class.leads.table.php:420
+msgid ""
+"This email was not confirmed. It means that actually this email address may "
+"be owned by another user."
+msgstr ""
+
+#: admin/includes/classes/class.leads.table.php:404
+msgid "This user confirmed his subscription."
+msgstr ""
+
+#: admin/includes/classes/class.leads.table.php:405
+#: admin/includes/classes/class.leads.table.php:409
+msgid "subscription"
+msgstr ""
+
+#: admin/includes/classes/class.leads.table.php:408
+msgid "This user has not confirmed his subscription."
+msgstr ""
+
+#: admin/includes/classes/class.leads.table.php:416
+msgid "This email is real. It was received from social networks."
+msgstr ""
+
+#: admin/includes/classes/class.lockers.viewtable.php:13
+#: admin/includes/viewtables/locker-viewtable.class.php:13
+msgid "<span title=\"Unlocks / Impressions / Conversion\">U / I / %"
+msgstr ""
+
+#: admin/includes/classes/class.lockers.viewtable.php:14
+#: admin/includes/viewtables/locker-viewtable.class.php:14
+msgid "Locker Title"
+msgstr ""
+
+#: admin/includes/classes/class.lockers.viewtable.php:17
+#: admin/includes/viewtables/locker-viewtable.class.php:17
+msgid "Type"
+msgstr ""
+
+#: admin/includes/classes/class.lockers.viewtable.php:20
+#: admin/includes/viewtables/locker-viewtable.class.php:20
+msgid "Shortcode"
+msgstr ""
+
+#: admin/includes/classes/class.lockers.viewtable.php:21
+#: admin/includes/viewtables/locker-viewtable.class.php:21
+msgid "Bulk Lock"
+msgstr ""
+
+#: admin/includes/classes/class.lockers.viewtable.php:22
+#: admin/includes/viewtables/locker-viewtable.class.php:22
+#: includes/metaboxes/basic-options.php:174
+msgid "Theme"
+msgstr ""
+
+#: admin/includes/classes/class.lockers.viewtable.php:23
+#: admin/includes/viewtables/locker-viewtable.class.php:23
+msgid "Created"
+msgstr ""
+
+#: admin/includes/classes/class.stats-screen.php:223
+msgid "(untitled post)"
+msgstr ""
+
+#: admin/includes/leads.php:359
+msgid "User Avatar"
+msgstr ""
+
+#: admin/includes/plugins.php:11 extras/visual-composer/boot.php:46
+#: extras/visual-composer/boot.php:66
+msgid "Opt-In Panda"
+msgstr ""
+
+#: admin/includes/plugins.php:12
+msgid ""
+"<p>Get more email subscribers the most organic way without tiresome popups.</"
+"p><p>Also extends the Sign-In Locker by adding the subscription features.</p>"
+msgstr ""
+
+#: admin/includes/plugins.php:21 extras/visual-composer/boot.php:28
+#: extras/visual-composer/boot.php:30 extras/visual-composer/boot.php:63
+msgid "Social Locker"
+msgstr "Sosyal Hasat"
+
+#: admin/includes/plugins.php:22
+msgid ""
+"<p>Helps to attract social traffic and improve spreading your content in "
+"social networks.</p><p>Also extends the Sign-In Locker by adding social "
+"actions you can set up to be performed.</p>"
+msgstr ""
+
+#: admin/includes/plugins.php:23
+msgid ""
+"<p>A premium version of the plugin Social Locker.</p><p>7 Social Buttons, 5 "
+"Beautiful Themes, Blurring Effect, Countdown Timer, Close Cross and more!</p>"
+msgstr ""
+
+#: admin/includes/plugins.php:32
+msgid "Social Locker (Plugin)"
+msgstr ""
+
+#: admin/includes/plugins.php:33
+msgid ""
+"<p>Helps to attract social traffic and improve spreading your content in "
+"social networks.</p>"
+msgstr ""
+
+#: admin/includes/plugins.php:42
+msgid "Mashshare"
+msgstr ""
+
+#: admin/includes/plugins.php:43
+msgid ""
+"<p>Make your site's share count skyrocket with this supercharged Share "
+"Buttons for WordPress!</p>"
+msgstr ""
+
+#: admin/includes/stats.php:150
+msgid "(the post not found)"
+msgstr ""
+
+#: admin/includes/subscriptions.php:122
+msgid "[ Depends on the list ]"
+msgstr ""
+
+#: admin/includes/subscriptions.php:122
+msgid ""
+"The Opt-In Mode depends on the settings of the list you selected. Check the "
+"<a href=\"http://freshmail.com/help-and-knowledge/help/managing-clients/set-"
+"parameters-list-recipients/\" target=\"_blank\">parameter</a> \"List type\" "
+"of the selected list in your FreshMail account to know which Opt-In Mode "
+"will be applied."
+msgstr ""
+
+#: admin/includes/subscriptions.php:156
+msgid "Full Double Opt-In (recommended)"
+msgstr ""
+
+#: admin/includes/subscriptions.php:157
+msgid ""
+"After the user enters one's email address, sends the confirmation email "
+"(double opt-in) and waits until the user confirms the subscription. Then, "
+"unlocks the content."
+msgstr ""
+
+#: admin/includes/subscriptions.php:160
+msgid "Lazy Double Opt-In"
+msgstr ""
+
+#: admin/includes/subscriptions.php:161
+msgid ""
+"Unlocks the content immediately after the user enters one's email address "
+"but also sends the confirmation email (double opt-in) to confirm the "
+"subscription."
+msgstr ""
+
+#: admin/includes/subscriptions.php:164
+msgid "Single Opt-In"
+msgstr ""
+
+#: admin/includes/subscriptions.php:165
+msgid ""
+"Unlocks the content immediately after the user enters one's email address. "
+"Doesn't send the confirmation email."
+msgstr ""
+
+#: admin/pages/how-to-use.php:22
+msgid "How to use?"
+msgstr ""
+
+#: admin/pages/how-to-use.php:45 admin/pages/how-to-use/social-apps.php:2
+msgid "Creating Social Apps"
+msgstr ""
+
+#: admin/pages/how-to-use.php:51 admin/pages/how-to-use/facebook-app.php:2
+msgid "Creating Facebook App"
+msgstr ""
+
+#: admin/pages/how-to-use.php:55 admin/pages/how-to-use/twitter-app.php:2
+msgid "Creating Twitter App"
+msgstr ""
+
+#: admin/pages/how-to-use.php:59 admin/pages/how-to-use/google-app.php:2
+msgid "Getting Google Client ID"
+msgstr ""
+
+#: admin/pages/how-to-use.php:65 admin/pages/how-to-use.php:313
+msgid "Troubleshooting"
+msgstr ""
+
+#: admin/pages/how-to-use.php:72 admin/pages/how-to-use/linkedin-app.php:2
+msgid "Getting LinkedIn API Key"
+msgstr ""
+
+#: admin/pages/how-to-use.php:315
+msgid ""
+"If you have any questions or faced with any troubles while using our plugin, "
+"please check our <a href=\"http://support.onepress-media.com/\" target="
+"\"_blank\">knowledge base</a>. It is possible that instructions for "
+"resolving your issue have already been posted."
+msgstr ""
+
+#: admin/pages/how-to-use.php:317
+msgid ""
+"If the answer to your question isn't listed, please submit a ticket <a href="
+"\"http://support.onepress-media.com/create-ticket/\" target=\"_blank\">here</"
+"a>.<br />You can also email us directly <strong>support@byonepress.com</"
+"strong>"
+msgstr ""
+
+#: admin/pages/how-to-use.php:338
+msgid "Try Premium Version For 7 Days For Free!"
+msgstr ""
+
+#: admin/pages/how-to-use.php:340
+msgid "Upgrade Opt-In Panda To Premium!"
+msgstr ""
+
+#: admin/pages/how-to-use.php:345
+#, php-format
+msgid ""
+"The plugin you are using is a free version of the popular <a target=\"_blank"
+"\" href=\"%s\"> Opt-In Panda</a> plugin. \n"
+"                We offer you to try the premium version for 7 days "
+"absolutely for free. We sure you will love it."
+msgstr ""
+
+#: admin/pages/how-to-use.php:349
+msgid "Check out the table below to know about the premium features."
+msgstr ""
+
+#: admin/pages/how-to-use.php:353
+#, php-format
+msgid ""
+"The plugin you are using is a free version of the popular <a target=\"_blank"
+"\" href=\"%s\"> Opt-In Panda plugin</a> sold on CodeCanyon."
+msgstr ""
+
+#: admin/pages/how-to-use.php:354
+msgid "Check out the table below to know about all the premium features."
+msgstr ""
+
+#: admin/pages/how-to-use.php:537 admin/pages/how-to-use.php:641
+msgid ""
+"You can purchase the premium version at any time within your trial period or "
+"right now. After purchasing you will get a license key to unlock all the "
+"plugin features."
+msgstr ""
+
+#: admin/pages/how-to-use.php:538 admin/pages/how-to-use.php:642
+#, php-format
+msgid ""
+"<strong>To purchase the Opt-In Panda</strong>, <a target=\"_blank\" href=\"%s"
+"\">click here</a> to visit the plugin page on CodeCanyon. Then click the "
+"\"Purchase\" button on the right sidebar."
+msgstr ""
+
+#: admin/pages/how-to-use.php:551
+msgid "Drive More Traffic & Build Quality Followers"
+msgstr ""
+
+#: admin/pages/how-to-use.php:553
+msgid ""
+"The premium version of the plugin provides 7 social buttons for all major "
+"social networks: Facebook, Twitter, Google, LinkedIn, including the Twitter "
+"Follow button. You can use them together or separately for customized "
+"results."
+msgstr ""
+
+#: admin/pages/how-to-use.php:557
+msgid ""
+"What's more, each button has individual settings (this way you can set an "
+"individual URL for each button)."
+msgstr ""
+
+#: admin/pages/how-to-use.php:558
+msgid ""
+"<strong>For example</strong>, you can set up the locker to get followers "
+"your Twitter account, fans for your Facebook page, +1s for a home page of "
+"your website."
+msgstr ""
+
+#: admin/pages/how-to-use.php:563
+msgid "Set How, When and For Whom Your Lockers Appear"
+msgstr ""
+
+#: admin/pages/how-to-use.php:576
+msgid "Create Highly Shareable Content Via The Blur Effect"
+msgstr ""
+
+#: admin/pages/how-to-use.php:587
+msgid "3 Extra Stunning Themes For Your Lockers"
+msgstr ""
+
+#: admin/pages/how-to-use.php:604
+msgid "Get New Features & Updates Almost Every Week"
+msgstr ""
+
+#: admin/pages/how-to-use.php:611
+msgid "Guaranteed Support Within 24h"
+msgstr ""
+
+#: admin/pages/how-to-use/facebook-app.php:5
+msgid "A Facebook App is required for the following buttons:"
+msgstr ""
+
+#: admin/pages/how-to-use/facebook-app.php:8
+msgid "Facebook Share of the Social Locker."
+msgstr ""
+
+#: admin/pages/how-to-use/facebook-app.php:10
+msgid "Facebook Sign-In of the Sign-In Locker."
+msgstr ""
+
+#: admin/pages/how-to-use/facebook-app.php:12
+msgid "Facebook Subscribe of the Email Locker."
+msgstr ""
+
+#: admin/pages/how-to-use/facebook-app.php:16
+msgid ""
+"If you want to use these buttons, you need to register a Facebook App for "
+"your website. Otherwise you can use the default Facebook App Id "
+"(117100935120196)."
+msgstr ""
+
+#: admin/pages/how-to-use/facebook-app.php:17
+msgid ""
+"In other words, <strong>you don't need to create an own app</strong> if "
+"you're not going to use these Facebook buttons."
+msgstr ""
+
+#: admin/pages/how-to-use/facebook-app.php:22
+#, php-format
+msgid ""
+"1. Open the website <a href=\"%s\" target=\"_blank\">developers.facebook."
+"com</a> and click \"Create a New App\" (or Add a New App):"
+msgstr ""
+
+#: admin/pages/how-to-use/facebook-app.php:29
+msgid "2. When the popup appears, click the link \"advanced setup\":"
+msgstr ""
+
+#: admin/pages/how-to-use/facebook-app.php:36
+msgid ""
+"3. Type your app name (it will be visible for users), select your app "
+"category, for example, \"utilities\" and click \"Create App\":"
+msgstr ""
+
+#: admin/pages/how-to-use/facebook-app.php:43
+msgid "4. Enter the words you see on the image and click \"Submit\":"
+msgstr ""
+
+#: admin/pages/how-to-use/facebook-app.php:50
+msgid "5. Move to the section \"Settings\":"
+msgstr ""
+
+#: admin/pages/how-to-use/facebook-app.php:57
+msgid ""
+"6. Twice set your site domain name: without \"www\" and with \"www\", enter "
+"your email address, click \"+ Add Platform\":"
+msgstr ""
+
+#: admin/pages/how-to-use/facebook-app.php:64
+msgid "7. Click \"Website\":"
+msgstr ""
+
+#: admin/pages/how-to-use/facebook-app.php:71
+msgid "8. Specify an URL of your website and save the changes:"
+msgstr ""
+
+#: admin/pages/how-to-use/facebook-app.php:78
+msgid "9. Move to the section \"Status & Review\":"
+msgstr ""
+
+#: admin/pages/how-to-use/facebook-app.php:85
+msgid "10. Make your app available to the general public:"
+msgstr ""
+
+#: admin/pages/how-to-use/facebook-app.php:92
+msgid "11. Move back to the section \"Dashboard\" and copy your app id:"
+msgstr ""
+
+#: admin/pages/how-to-use/facebook-app.php:99
+#, php-format
+msgid ""
+"12. Paste your Facebook App Id on the page Global Settings > <a href=\"%s"
+"\">Social Options</a>."
+msgstr ""
+
+#: admin/pages/how-to-use/facebook-like.php:2
+msgid "Using the Facebook Like with the Social Locker"
+msgstr "Sosyal Hasat ile \"Facebook Beğen\" i kullanmak"
+
+#: admin/pages/how-to-use/facebook-like.php:5
+msgid ""
+"This note describes the Facebook restriction regarding using the Facebook "
+"Buttons in the Social Locker."
+msgstr "Bu bölüm Facebook kısıtlamalarını açıklamaktadır."
+
+#: admin/pages/how-to-use/facebook-like.php:6
+msgid ""
+"Since 5 Nov, you don't have to incentivize people to like your page to "
+"unlock the content:"
+msgstr ""
+"5 Kasım'dan itibaren yeni Facebook politikaları gereği; içeriklerinizi "
+"görmek için ziyaretçilerinizi beğeniye teşvik etmemeniz gerekiyor."
+
+#: admin/pages/how-to-use/facebook-like.php:11
+msgid ""
+"You must not incentivize people to use social plugins or to like a Page. "
+"This includes offering rewards, or gating apps or app content based on "
+"whether or not a person has liked a Page. It remains acceptable to "
+"incentivize people to login to your app, checkin at a place ..."
+msgstr ""
+"Ziyaretçileri beğeniye teşvik etmemelisiniz. Bu uygulama halen app'inize "
+"giriş yapılması ya da check-in yapılması kabul edilebilir kılıyor. "
+
+#: admin/pages/how-to-use/facebook-like.php:13
+msgid "Source:"
+msgstr "Kaynak:"
+
+#: admin/pages/how-to-use/facebook-like.php:20
+msgid ""
+"<strong>This Facebook restriction doesn't affect</strong> on the Facebook "
+"Connect and Facebook Subscribe buttons (which ask to log into your app) from "
+"Email and Connect Lockers."
+msgstr ""
+
+#: admin/pages/how-to-use/facebook-like.php:24
+msgid ""
+"<strong>This restriction doesn't affect</strong> on buttons from other "
+"social networks (Twitter, Google, LinkedIn)."
+msgstr ""
+
+#: admin/pages/how-to-use/facebook-like.php:28
+msgid ""
+"Technically <strong>you can ignore this restriction, the Social Locker will "
+"work without any problems</strong>. Also you can just update a bit the "
+"settings of your lockers to make it compatible with the new policy."
+msgstr ""
+
+#: admin/pages/how-to-use/facebook-like.php:35
+msgid "Making Social Locker compatible with the Facebook Policies"
+msgstr "Sosyal Hasat'ı Facebook politikalarıyla uyumlu hale getirme"
+
+#: admin/pages/how-to-use/facebook-like.php:37
+msgid ""
+"If want to use the Social Locker with the Facebook Like and keep it "
+"compatible with the new Facebook Policies, you need to convert your Social "
+"Locker to \"Social Reminder\". What does it mean?"
+msgstr ""
+"Eğer Sosyal Hasat'ı Facebook politikalarıyla %100 uyumlu hale getirmek "
+"istiyorsanız, Sosyal Hasat'ı Sosyal Hatırlatıcı haline getirebilirsiniz. Bu "
+"ne anlama geliyor?"
+
+#: admin/pages/how-to-use/facebook-like.php:39
+msgid "1. Enable the option Close Icon."
+msgstr "1. KAPAT seçeneğini aktif hale getirin."
+
+#: admin/pages/how-to-use/facebook-like.php:41
+msgid "You have to give people the way to skip the liking process."
+msgstr "Ziyaretçilerinize beğenme sürecini atlama imkanı vermeniz gerekiyor."
+
+#: admin/pages/how-to-use/facebook-like.php:42
+msgid ""
+"The Close Icon is not bright and the most people will not notice it at first "
+"time and will still click on the Like button."
+msgstr ""
+"KAPAT ikonu çok parlak değil, bu yüzden bir çok kişi yine fark etmeyerek "
+"beğeni yapmaya devam edecektir."
+
+#: admin/pages/how-to-use/facebook-like.php:45
+msgid "2. Remove any phrases like \"this content is locked\" from your locker."
+msgstr ""
+"2. \"Bu İçerik Kilitlenmiştir, Sınırlandırılmıştır.\" gibi ifadeleri, "
+"sınırlandırıcıdan çıkarın. "
+
+#: admin/pages/how-to-use/facebook-like.php:47
+msgid ""
+"Don't write that your content is locked. Ask support you because you need it "
+"in order to keep doing what you're doing (provide free downloads, write good "
+"articles and so on)."
+msgstr ""
+"Kilitlenmiştir ya da sınırlandırılmıştır yazmayın. Yaptığınız iyi şeyi "
+"(ücretsiz kaynaklar, indirmeler, makaleler, videolar) yapmaya devam "
+"edebilmek için destek isteyin."
+
+#: admin/pages/how-to-use/facebook-like.php:50
+msgid "3. Turn on the Transparency or Blurring mode."
+msgstr "3. Transparan ve Blut modelarını aktif hale getirin."
+
+#: admin/pages/how-to-use/facebook-like.php:52
+msgid ""
+"It makes your locker looks like a popup which appears suddenly to ask the "
+"user to support you."
+msgstr ""
+"Bu Sosyal Hasat'ı kullanıcıdan destek isteyen bir pop-up haline getiriyor. "
+
+#: admin/pages/how-to-use/google-app.php:5
+msgid "A Google Client ID is required for the following buttons:"
+msgstr ""
+
+#: admin/pages/how-to-use/google-app.php:7
+msgid "YouTube Subscribe of the Social Locker."
+msgstr ""
+
+#: admin/pages/how-to-use/google-app.php:8
+msgid "Google Sign-In of the Sign-In Locker."
+msgstr ""
+
+#: admin/pages/how-to-use/google-app.php:10
+msgid "Google Subscribe of the Email Locker."
+msgstr ""
+
+#: admin/pages/how-to-use/google-app.php:15
+msgid ""
+"If you want to use these buttons, you need to get Google Client ID App for "
+"your website."
+msgstr ""
+
+#: admin/pages/how-to-use/google-app.php:16
+msgid ""
+"<strong>You don't need to get a Client ID</strong> if you're not going to "
+"use these buttons."
+msgstr ""
+
+#: admin/pages/how-to-use/google-app.php:20
+#, php-format
+msgid ""
+"1. Go to the <a href=\"%s\" target=\"_blank\">Google Developers Console</a>."
+msgstr ""
+
+#: admin/pages/how-to-use/google-app.php:24
+msgid ""
+"2. Click the button \"Create Project\", enter your website name as a new "
+"project name."
+msgstr ""
+
+#: admin/pages/how-to-use/google-app.php:31
+msgid ""
+"3. Wait until your new project is created. After that you will be "
+"automatically redirected to your project dashboard."
+msgstr ""
+
+#: admin/pages/how-to-use/google-app.php:35
+msgid ""
+"4. Select \"APIs & auth\" > \"Consent screen\" in the sidebar on the left."
+msgstr ""
+
+#: admin/pages/how-to-use/google-app.php:42
+msgid "5. Fill up and save the form:"
+msgstr ""
+
+#: admin/pages/how-to-use/google-app.php:46
+#: admin/pages/how-to-use/google-app.php:124
+#: admin/pages/how-to-use/linkedin-app.php:27
+#: admin/pages/how-to-use/twitter-app.php:29
+msgid "Field"
+msgstr ""
+
+#: admin/pages/how-to-use/google-app.php:47
+#: admin/pages/how-to-use/google-app.php:125
+#: admin/pages/how-to-use/linkedin-app.php:28
+#: admin/pages/how-to-use/twitter-app.php:30
+msgid "How To Fill"
+msgstr ""
+
+#: admin/pages/how-to-use/google-app.php:52
+msgid "Email Address"
+msgstr ""
+
+#: admin/pages/how-to-use/google-app.php:53
+msgid "Select your email address from the list."
+msgstr ""
+
+#: admin/pages/how-to-use/google-app.php:56
+msgid "Product Name"
+msgstr ""
+
+#: admin/pages/how-to-use/google-app.php:57
+#: admin/pages/how-to-use/linkedin-app.php:38
+msgid "The best name is your website name."
+msgstr ""
+
+#: admin/pages/how-to-use/google-app.php:60
+msgid "Homepage URL"
+msgstr ""
+
+#: admin/pages/how-to-use/google-app.php:62
+#: admin/pages/how-to-use/linkedin-app.php:50
+#: admin/pages/how-to-use/twitter-app.php:48
+msgid "Paste your website URL:"
+msgstr ""
+
+#: admin/pages/how-to-use/google-app.php:67
+msgid "Product Logo"
+msgstr ""
+
+#: admin/pages/how-to-use/google-app.php:69
+msgid ""
+"If you have any suitable logo, paste it here. Recommended to set for better "
+"conversion."
+msgstr ""
+
+#: admin/pages/how-to-use/google-app.php:73
+msgid "Privacy Policy URL"
+msgstr ""
+
+#: admin/pages/how-to-use/google-app.php:75
+#: admin/pages/how-to-use/google-app.php:83
+msgid ""
+"Recommended to set it in order to make the work of the plugin transparent "
+"for the users. While the plugin activation, we created one for you:"
+msgstr ""
+
+#: admin/pages/how-to-use/google-app.php:77
+#: admin/pages/how-to-use/google-app.php:85
+msgid "You can change it or create your own one."
+msgstr ""
+
+#: admin/pages/how-to-use/google-app.php:81
+msgid "Terms of Service URL"
+msgstr ""
+
+#: admin/pages/how-to-use/google-app.php:93
+msgid ""
+"6. In the sidebar on the left, select \"APIs\" and enable the following APIs:"
+msgstr ""
+
+#: admin/pages/how-to-use/google-app.php:95
+msgid "<strong>Google API</strong>"
+msgstr ""
+
+#: admin/pages/how-to-use/google-app.php:96
+msgid ""
+"<strong>YouTube APIs</strong> <em>(if you are going to attract subscribers "
+"for your Youtube channel)</em>"
+msgstr ""
+
+#: admin/pages/how-to-use/google-app.php:98
+msgid ""
+"To enable these APIs, click on a title of the required API in the list and "
+"then click the button \"Enable API\"."
+msgstr ""
+
+#: admin/pages/how-to-use/google-app.php:104
+msgid ""
+"7. In the sidebar on the left, select \"Credentials\", then click the button "
+"\"Create new Client ID\"."
+msgstr ""
+
+#: admin/pages/how-to-use/google-app.php:120
+msgid ""
+"8. In the popup window, select \"Web application\" and fill up the form:"
+msgstr ""
+
+#: admin/pages/how-to-use/google-app.php:130
+msgid "Javascript Origin"
+msgstr ""
+
+#: admin/pages/how-to-use/google-app.php:132
+msgid "Paste your website root path:"
+msgstr ""
+
+#: admin/pages/how-to-use/google-app.php:137
+msgid "Redirect URIs"
+msgstr ""
+
+#: admin/pages/how-to-use/google-app.php:139
+#: admin/pages/how-to-use/twitter-app.php:55
+msgid "Paste the URL:"
+msgstr ""
+
+#: admin/pages/how-to-use/google-app.php:156
+msgid "9. After closing the popup window, you will see your new Client ID:"
+msgstr ""
+
+#: admin/pages/how-to-use/google-app.php:163
+#, php-format
+msgid ""
+"10. Copy and paste it on the page Global Settings > <a href=\"%s\">Social "
+"Options</a>."
+msgstr ""
+
+#: admin/pages/how-to-use/linkedin-app.php:5
+msgid "A LinkedIn API Key is required for the following buttons:"
+msgstr ""
+
+#: admin/pages/how-to-use/linkedin-app.php:7
+msgid "LinkedIn Sign-In of the Sign-In Locker."
+msgstr ""
+
+#: admin/pages/how-to-use/linkedin-app.php:9
+msgid "LinkedIn Subscribe of the Email Locker."
+msgstr ""
+
+#: admin/pages/how-to-use/linkedin-app.php:14
+msgid ""
+"If you want to use these buttons, you need to get create a LinkedIn App for "
+"your website and generate an API key."
+msgstr ""
+
+#: admin/pages/how-to-use/linkedin-app.php:15
+msgid ""
+"<strong>You don't need to do it</strong> if you're not going to use these "
+"LinkedIn buttons."
+msgstr ""
+
+#: admin/pages/how-to-use/linkedin-app.php:19
+#, php-format
+msgid ""
+"1. Go to the <a href=\"%s\" target=\"_blank\">LinkedIn Developer Network</a> "
+"and click <strong>Add New Application</strong>."
+msgstr ""
+
+#: admin/pages/how-to-use/linkedin-app.php:23
+msgid ""
+"2. Fill up the groups <strong>Company Info</strong>, <strong>Application "
+"Info</strong> and <strong>Contact Info</strong> the following way:"
+msgstr ""
+
+#: admin/pages/how-to-use/linkedin-app.php:33
+msgid "Company"
+msgstr "Şirket"
+
+#: admin/pages/how-to-use/linkedin-app.php:34
+msgid ""
+"Select an existing company or create your own one (you can use your website "
+"name as a company name)."
+msgstr ""
+
+#: admin/pages/how-to-use/linkedin-app.php:37
+msgid "Application Name"
+msgstr ""
+
+#: admin/pages/how-to-use/linkedin-app.php:41
+#: admin/pages/how-to-use/twitter-app.php:39
+msgid "Description"
+msgstr "Açıklama"
+
+#: admin/pages/how-to-use/linkedin-app.php:43
+msgid "Explain what your app does, e.g:"
+msgstr ""
+
+#: admin/pages/how-to-use/linkedin-app.php:44
+#: admin/pages/how-to-use/twitter-app.php:42
+msgid ""
+"This application asks your credentials in order to unlock the content. "
+"Please read the Terms of Use to know how these credentials will be used."
+msgstr ""
+
+#: admin/pages/how-to-use/linkedin-app.php:48
+msgid "Website URL"
+msgstr ""
+
+#: admin/pages/how-to-use/linkedin-app.php:55
+msgid "Application Use"
+msgstr ""
+
+#: admin/pages/how-to-use/linkedin-app.php:57
+msgid "Select \"Other\" from the list."
+msgstr ""
+
+#: admin/pages/how-to-use/linkedin-app.php:61
+msgid "Application Developers"
+msgstr ""
+
+#: admin/pages/how-to-use/linkedin-app.php:63
+msgid ""
+"Make sure that the checkbox \"Include yourself as a developer for this "
+"application\" is marked."
+msgstr ""
+
+#: admin/pages/how-to-use/linkedin-app.php:67
+msgid "Live Status"
+msgstr ""
+
+#: admin/pages/how-to-use/linkedin-app.php:69
+msgid "Select \"Live\"."
+msgstr ""
+
+#: admin/pages/how-to-use/linkedin-app.php:73
+msgid "Developer Contact Email"
+msgstr ""
+
+#: admin/pages/how-to-use/linkedin-app.php:75
+msgid "Enter your email to receive updates regarding your app."
+msgstr ""
+
+#: admin/pages/how-to-use/linkedin-app.php:78
+msgid "Phone"
+msgstr ""
+
+#: admin/pages/how-to-use/linkedin-app.php:80
+msgid "Enter your phone. It will not be visible."
+msgstr ""
+
+#: admin/pages/how-to-use/linkedin-app.php:85
+msgid ""
+"Check out the image below to make sure that you filled the fields correctly:"
+msgstr ""
+
+#: admin/pages/how-to-use/linkedin-app.php:92
+msgid ""
+"3. In the group <strong>OAuth User Agreement</strong> mark "
+"\"<i>r_basicprofile</i>\" and \"<i>r_emailaddress</i>\". In the list "
+"<strong>Agreement Language</strong>, select <i>Browser Locale Setting</i>."
+msgstr ""
+
+#: admin/pages/how-to-use/linkedin-app.php:108
+msgid ""
+"4. And finally in the field <strong>JavaScript API Domains</strong> specify "
+"your website URL:"
+msgstr ""
+
+#: admin/pages/how-to-use/linkedin-app.php:116
+msgid "5. Agree to the LinkedIn terms and submit the form."
+msgstr ""
+
+#: admin/pages/how-to-use/linkedin-app.php:120
+msgid ""
+"6. If you filled the form correctly, you will see your app details on the "
+"next screen."
+msgstr ""
+
+#: admin/pages/how-to-use/linkedin-app.php:127
+#, php-format
+msgid ""
+"7. Copy & paste your API Key on the page Global Settings > <a href=\"%s"
+"\">Social Options</a>."
+msgstr ""
+
+#: admin/pages/how-to-use/social-apps.php:4
+msgid ""
+"Creating own Social Apps is not required in most cases. Click on the links "
+"below to know about the cases when you need to create respective apps."
+msgstr ""
+
+#: admin/pages/how-to-use/twitter-app.php:5
+msgid ""
+"A Twitter App is required for the Twitter Sign-In button of the Sign-In "
+"Locker."
+msgstr ""
+
+#: admin/pages/how-to-use/twitter-app.php:6
+msgid ""
+"We already created one by default. It's completely ready to use, so you can "
+"skip this instruction."
+msgstr ""
+
+#: admin/pages/how-to-use/twitter-app.php:10
+msgid ""
+"Create your own Twitter App only if you want to change the app title, url, "
+"image, description visible when the user click on the Tweet Sign-In button."
+msgstr ""
+
+#: admin/pages/how-to-use/twitter-app.php:13
+msgid ""
+"On the image below you can see which areas you can change by creating your "
+"own app."
+msgstr ""
+
+#: admin/pages/how-to-use/twitter-app.php:21
+#, php-format
+msgid ""
+"1. Open the website <a href=\"%s\" target=\"_blank\">apps.twitter.com</a> "
+"and click \"Create New App\"."
+msgstr ""
+
+#: admin/pages/how-to-use/twitter-app.php:25
+msgid ""
+"2. Fill up the form, agree to the Developer Agreement, click \"Create Your "
+"Twitter application\"."
+msgstr ""
+
+#: admin/pages/how-to-use/twitter-app.php:36
+msgid "The best app name is your website name."
+msgstr ""
+
+#: admin/pages/how-to-use/twitter-app.php:41
+msgid "Explain why you ask for the credentials, e.g:"
+msgstr ""
+
+#: admin/pages/how-to-use/twitter-app.php:46
+msgid "Website"
+msgstr ""
+
+#: admin/pages/how-to-use/twitter-app.php:53
+msgid "Callback URL"
+msgstr ""
+
+#: admin/pages/how-to-use/twitter-app.php:68
+msgid "3. Click the tab \"Settings."
+msgstr ""
+
+#: admin/pages/how-to-use/twitter-app.php:75
+msgid ""
+"4. Mark the checkbox \"Allow this application to be used to Sign in with "
+"Twitter\" and, if you want, change the app icon. Then click the button "
+"\"Update Settings\"."
+msgstr ""
+
+#: admin/pages/how-to-use/twitter-app.php:82
+msgid ""
+"5. Move to the section \"Permissions\", mark \"Read and Write\" and save "
+"changes."
+msgstr ""
+
+#: admin/pages/how-to-use/twitter-app.php:89
+msgid ""
+"6. Move to the section \"Keys and Access Tokens\", find your Custumer Key "
+"and Customer Secret:"
+msgstr ""
+
+#: admin/pages/how-to-use/twitter-app.php:96
+#, php-format
+msgid ""
+"7. Paste your key and secret on the page Global Settings > <a href=\"%s"
+"\">Social Options</a>."
+msgstr ""
+
+#: admin/pages/leads.php:26
+#, php-format
+msgid "Leads (%d)"
+msgstr ""
+
+#: admin/pages/leads.php:67
+msgid "export"
+msgstr ""
+
+#: admin/pages/leads.php:73 admin/pages/leads.php:79
+msgid ""
+"This page shows contacts of visitors who opted-in or signed-in on your "
+"website through Email or Sign-In Lockers."
+msgstr ""
+
+#: admin/pages/leads.php:75
+#, php-format
+msgid ""
+"This page shows contacts of visitors who signed-in on your website through "
+"the <a href=\"%s\">Sign-In Locker</a>."
+msgstr ""
+
+#: admin/pages/leads.php:83
+msgid "Search Leads"
+msgstr ""
+
+#: admin/pages/leads.php:123
+msgid "Please enter a valid email."
+msgstr ""
+
+#: admin/pages/leads.php:173
+msgid "<strong>Well done!</strong> The lead data updated successfully."
+msgstr ""
+
+#: admin/pages/leads.php:198 admin/pages/leads.php:501
+msgid "Email"
+msgstr ""
+
+#: admin/pages/leads.php:203
+msgid "Name:"
+msgstr ""
+
+#: admin/pages/leads.php:207
+msgid "First Name"
+msgstr ""
+
+#: admin/pages/leads.php:208
+msgid "Last Name"
+msgstr ""
+
+#: admin/pages/leads.php:214
+msgid "Email Confirmed:"
+msgstr ""
+
+#: admin/pages/leads.php:216 admin/pages/leads.php:228
+msgid "yes"
+msgstr ""
+
+#: admin/pages/leads.php:216 admin/pages/leads.php:228
+msgid "no"
+msgstr ""
+
+#: admin/pages/leads.php:226
+msgid "Subscription Confirmed:"
+msgstr ""
+
+#: admin/pages/leads.php:264 admin/pages/settings.php:236
+msgid "Save Changes"
+msgstr ""
+
+#: admin/pages/leads.php:265
+msgid "Return"
+msgstr ""
+
+#: admin/pages/leads.php:299
+msgid "Mark All"
+msgstr ""
+
+#: admin/pages/leads.php:366
+msgid "Please make sure that you selected at least one channel and field."
+msgstr ""
+
+#: admin/pages/leads.php:409
+msgid "No leads found. Please try to change the settings of exporting."
+msgstr ""
+
+#: admin/pages/leads.php:450
+msgid "Format"
+msgstr ""
+
+#: admin/pages/leads.php:451
+msgid "Only the CSV format is available currently."
+msgstr ""
+
+#: admin/pages/leads.php:453
+msgid "CSV File"
+msgstr ""
+
+#: admin/pages/leads.php:460
+msgid "Delimiter"
+msgstr ""
+
+#: admin/pages/leads.php:461
+msgid "Choose a delimiter for a CSV document."
+msgstr ""
+
+#: admin/pages/leads.php:463
+msgid "Comma"
+msgstr ""
+
+#: admin/pages/leads.php:464
+msgid "Semicolon"
+msgstr ""
+
+#: admin/pages/leads.php:475
+msgid "Channels"
+msgstr ""
+
+#: admin/pages/leads.php:476
+msgid "Mark lockers which attracted leads you wish to export."
+msgstr ""
+
+#: admin/pages/leads.php:483
+msgid "Email Status"
+msgstr ""
+
+#: admin/pages/leads.php:484
+msgid "Choose the email status of leads to export."
+msgstr ""
+
+#: admin/pages/leads.php:487
+msgid "Only Confirmed Emails"
+msgstr ""
+
+#: admin/pages/leads.php:488
+msgid "Only Not Confirmed"
+msgstr ""
+
+#: admin/pages/leads.php:499
+msgid "Fields To Export"
+msgstr ""
+
+#: admin/pages/leads.php:502
+msgid "Display Name"
+msgstr ""
+
+#: admin/pages/leads.php:503
+msgid "Firstname"
+msgstr ""
+
+#: admin/pages/leads.php:504
+msgid "Lastname"
+msgstr ""
+
+#: admin/pages/leads.php:505
+msgid "IP"
+msgstr ""
+
+#: admin/pages/leads.php:517
+msgid "Custom Fields"
+msgstr ""
+
+#: admin/pages/leads.php:533 admin/pages/leads.php:568
+msgid "Exporting Leads"
+msgstr ""
+
+#: admin/pages/leads.php:536
+msgid ""
+"Select leads you would like to export and click the button \"Export Leads\"."
+msgstr ""
+
+#: admin/pages/leads.php:554
+msgid "Export Leads"
+msgstr ""
+
+#: admin/pages/leads.php:571
+#, php-format
+msgid ""
+"This feature is available only in the Premium version. <a href=\"%s\" target="
+"\"_blank\"><strong>Go Premium to unlock the exporting feature</strong></a>."
+msgstr ""
+
+#: admin/pages/new-item.php:16 includes/post-types.php:72
+msgid "+ New Locker"
+msgstr "+ Yeni Sınırlandırıcı"
+
+#: admin/pages/new-item.php:59
+msgid "Creating New Item"
+msgstr ""
+
+#: admin/pages/new-item.php:60
+msgid "Choose which items you would like to create."
+msgstr ""
+
+#: admin/pages/new-item.php:74
+msgid "Create Item"
+msgstr ""
+
+#: admin/pages/new-item.php:78 admin/pages/new-item.php:147
+msgid "Click here to learn more"
+msgstr ""
+
+#: admin/pages/new-item.php:96
+msgid "More Marketing Tools To Grow Your Business"
+msgstr ""
+
+#: admin/pages/new-item.php:99
+msgid "Check out other plugins which add more features to your lockers."
+msgstr ""
+
+#: admin/pages/settings.php:32
+msgid "Global Settings"
+msgstr ""
+
+#: admin/pages/settings.php:80
+msgid "Subscription Options"
+msgstr ""
+
+#: admin/pages/settings.php:90
+msgid "Social Options"
+msgstr "Sosyal Seçenekler"
+
+#: admin/pages/settings.php:113
+msgid "Lock Options"
+msgstr ""
+
+#: admin/pages/settings.php:120
+msgid "Stats Options"
+msgstr ""
+
+#: admin/pages/settings.php:126
+msgid "Front-end Text"
+msgstr ""
+
+#: admin/pages/settings.php:134 includes/metaboxes/terms-privacy.php:57
+msgid "Terms & Policies"
+msgstr ""
+
+#: admin/pages/settings.php:211
+msgid "The settings have been updated successfully!"
+msgstr ""
+
+#: admin/pages/stats.php:20 admin/pages/stats.php:161
+msgid "Stats & Reports"
+msgstr ""
+
+#: admin/pages/stats.php:70
+msgid "The item with ID = "
+msgstr ""
+
+#: admin/pages/stats.php:73 admin/pages/stats.php:179
+#: admin/pages/stats.php:350
+#, php-format
+msgid "(no titled, id=%s)"
+msgstr ""
+
+#: admin/pages/stats.php:165
+msgid "You are viewing reports for "
+msgstr ""
+
+#: admin/pages/stats.php:174
+msgid "Select item to view:"
+msgstr ""
+
+#: admin/pages/stats.php:186 admin/pages/stats.php:357
+msgid "Select"
+msgstr ""
+
+#: admin/pages/stats.php:195
+#, php-format
+msgid ""
+"This chart shows the count of times when the locker was not available to use "
+"due to the visitor installed the extensions like Avast or Adblock which may "
+"block social networks.<br />By default, the such visitors see the locker "
+"without social buttons but with the offer to disable the extensions. You can "
+"set another behaviour <a href=\"%s\"><strong>here</strong></a>."
+msgstr ""
+
+#: admin/pages/stats.php:222
+msgid "Date range"
+msgstr ""
+
+#: admin/pages/stats.php:227
+msgid "Apply"
+msgstr ""
+
+#: admin/pages/stats.php:252
+#, php-format
+msgid "Data for the post: <strong>%s</strong> (<a href=\"%s\">return back</a>)"
+msgstr ""
+
+#: admin/pages/stats.php:255
+msgid ""
+"Top-50 posts and pages where you put the locker, ordered by their "
+"performance:"
+msgstr ""
+
+#: admin/pages/stats.php:343
+msgid "Select Locker"
+msgstr ""
+
+#: admin/pages/stats.php:344
+msgid "Please select a locker to view reports."
+msgstr ""
+
+#: admin/settings/class.lock.php:31
+msgid ""
+"Options linked with the locking feature. Don't change the options here if "
+"you are not sure that you do."
+msgstr ""
+
+#: admin/settings/class.lock.php:55
+msgid "Debug"
+msgstr ""
+
+#: admin/settings/class.lock.php:56
+msgid ""
+"When this option turned on, the locker appears always, ignoring any "
+"settings, even if the user already unlocked the content."
+msgstr ""
+
+#: admin/settings/class.lock.php:66
+msgid "Pass Code"
+msgstr ""
+
+#: admin/settings/class.lock.php:67
+#, php-format
+msgid ""
+"Optional. When the pass code is contained in your website URL, the locked "
+"content gets automatically unlocked.<br/><div class=\"opanda-example"
+"\"><strong>Usage example:</strong> <a href=\"#\" class=\"opanda-url\" target="
+"\"_blank\">%s<span class=\"opanda-passcode\"></span></a></div>"
+msgstr ""
+
+#: admin/settings/class.lock.php:75
+msgid "Permanent Unlock<br /> For Pass Code"
+msgstr ""
+
+#: admin/settings/class.lock.php:76
+msgid ""
+"Optional. If On, your lockers will be revealed forever if the user once "
+"opened the page URL with the Pass Code.<br />Otherwise your lockers will be "
+"unlocked only when the page URL contains the Pass Code."
+msgstr ""
+
+#: admin/settings/class.lock.php:88
+msgid "Interrelation"
+msgstr ""
+
+#: admin/settings/class.lock.php:89
+msgid ""
+"Set On to make lockers interrelated. When one of the interrelated lockers "
+"are unlocked on your site, the others will be unlocked too.<br /> "
+"Recommended to turn on, if you use the Batch Locking feature."
+msgstr ""
+
+#: admin/settings/class.lock.php:97
+msgid "I use a dynamic theme"
+msgstr ""
+
+#: admin/settings/class.lock.php:98
+msgid ""
+"If your theme loads pages dynamically via ajax, set \"On\" to get the "
+"lockers working (if everything works properly, don't turn on this option)."
+msgstr ""
+
+#: admin/settings/class.lock.php:109
+msgid "Normalize Markup for Visual Composer"
+msgstr ""
+
+#: admin/settings/class.lock.php:110
+msgid ""
+"If you use the Batch Lock with the mode \"Skip & Lock\" and Visual Composer "
+"(or similar plugins), turn on this option to normalize html markup before "
+"output."
+msgstr ""
+
+#: admin/settings/class.lock.php:121
+msgid "jQuery Events"
+msgstr ""
+
+#: admin/settings/class.lock.php:122
+msgid ""
+"If pages of your site are loaded dynamically via ajax, it's necessary to "
+"catch the moment when the page is loaded in order to appear the locker.<br /"
+">By default the plugin covers 99% possible events. So <strong>you don't need "
+"to set any value here</strong>.<br />But if you know how it works and sure "
+"that it will help, you can put here the javascript event that triggers after "
+"loading of pages on your site."
+msgstr ""
+
+#: admin/settings/class.lock.php:139
+msgid "Classic (full)"
+msgstr ""
+
+#: admin/settings/class.lock.php:140 includes/metaboxes/basic-options.php:189
+msgid "Transparency"
+msgstr ""
+
+#: admin/settings/class.lock.php:143
+msgid "Alt Overlap Mode"
+msgstr ""
+
+#: admin/settings/class.lock.php:144
+msgid ""
+"This overlap mode will be applied for browsers which don't support the "
+"blurring effect."
+msgstr ""
+
+#: admin/settings/class.lock.php:151
+msgid "Locked content<br /> is visible in RSS feeds"
+msgstr ""
+
+#: admin/settings/class.lock.php:152
+msgid "Set On to make locked content visible in RSS feed."
+msgstr ""
+
+#: admin/settings/class.lock.php:162
+msgid "Actual URLs by default"
+msgstr ""
+
+#: admin/settings/class.lock.php:163
+msgid ""
+"Optional. If you do not set explicitly URLs to like/share in the settings of "
+"social buttons, then by default the plugin will use an URL of the page where "
+"the locker is located. Turn on this option to extract URLs to like/share "
+"from an address bar of the user browser, saving all query arguments. By "
+"default (when this option disabled) permalinks are used."
+msgstr ""
+
+#: admin/settings/class.lock.php:178
+msgid "Anti-Cheating"
+msgstr ""
+
+#: admin/settings/class.lock.php:180
+msgid ""
+"Turn it on to protect your locked content against cheating from visitors. "
+"Some special browser extensions allow to view the locked content without "
+"actual sharing. This option checks whether the user has really liked/shared "
+"your page. In future versions of the plugin, we will make this option active "
+"by default."
+msgstr ""
+
+#: admin/settings/class.lock.php:186
+msgid "Timeout of waiting<br />loading the locker (in ms)"
+msgstr ""
+
+#: admin/settings/class.lock.php:188
+msgid ""
+"The use can have browser extensions which block loading scripts from social "
+"networks. If the social buttons have not been loaded within the specified "
+"timeout, the locker shows the error (in the red container) alerting about "
+"that a browser blocks loading of the social buttons.<br />"
+msgstr ""
+
+#: admin/settings/class.social.php:29
+msgid "Set up here your social API keys and app IDs for social buttons."
+msgstr ""
+
+#: admin/settings/class.social.php:42
+msgid "Catalan"
+msgstr ""
+
+#: admin/settings/class.social.php:43
+msgid "Czech"
+msgstr ""
+
+#: admin/settings/class.social.php:44
+msgid "Welsh"
+msgstr ""
+
+#: admin/settings/class.social.php:45
+msgid "Danish"
+msgstr ""
+
+#: admin/settings/class.social.php:46
+msgid "German"
+msgstr ""
+
+#: admin/settings/class.social.php:47
+msgid "Basque"
+msgstr ""
+
+#: admin/settings/class.social.php:48
+msgid "English"
+msgstr ""
+
+#: admin/settings/class.social.php:49
+msgid "Spanish"
+msgstr ""
+
+#: admin/settings/class.social.php:50
+msgid "Finnish"
+msgstr ""
+
+#: admin/settings/class.social.php:51
+msgid "French"
+msgstr ""
+
+#: admin/settings/class.social.php:52
+msgid "Galician"
+msgstr ""
+
+#: admin/settings/class.social.php:53
+msgid "Hungarian"
+msgstr ""
+
+#: admin/settings/class.social.php:54
+msgid "Italian"
+msgstr ""
+
+#: admin/settings/class.social.php:55
+msgid "Japanese"
+msgstr ""
+
+#: admin/settings/class.social.php:56
+msgid "Korean"
+msgstr ""
+
+#: admin/settings/class.social.php:57
+msgid "Norwegian"
+msgstr ""
+
+#: admin/settings/class.social.php:58
+msgid "Dutch"
+msgstr ""
+
+#: admin/settings/class.social.php:59
+msgid "Polish"
+msgstr ""
+
+#: admin/settings/class.social.php:60
+msgid "Portuguese (Brazil)"
+msgstr ""
+
+#: admin/settings/class.social.php:61
+msgid "Portuguese (Portugal)"
+msgstr ""
+
+#: admin/settings/class.social.php:62
+msgid "Romanian"
+msgstr ""
+
+#: admin/settings/class.social.php:63
+msgid "Russian"
+msgstr ""
+
+#: admin/settings/class.social.php:64
+msgid "Slovak"
+msgstr ""
+
+#: admin/settings/class.social.php:65
+msgid "Slovenian"
+msgstr ""
+
+#: admin/settings/class.social.php:66
+msgid "Swedish"
+msgstr ""
+
+#: admin/settings/class.social.php:67
+msgid "Thai"
+msgstr ""
+
+#: admin/settings/class.social.php:68
+msgid "Turkish"
+msgstr ""
+
+#: admin/settings/class.social.php:69
+msgid "Kurdish"
+msgstr ""
+
+#: admin/settings/class.social.php:70
+msgid "Simplified Chinese (China)"
+msgstr ""
+
+#: admin/settings/class.social.php:71
+msgid "Traditional Chinese (Hong Kong)"
+msgstr ""
+
+#: admin/settings/class.social.php:72
+msgid "Traditional Chinese (Taiwan)"
+msgstr ""
+
+#: admin/settings/class.social.php:73
+msgid "Afrikaans"
+msgstr ""
+
+#: admin/settings/class.social.php:74
+msgid "Albanian"
+msgstr ""
+
+#: admin/settings/class.social.php:75
+msgid "Armenian"
+msgstr ""
+
+#: admin/settings/class.social.php:76
+msgid "Azeri"
+msgstr ""
+
+#: admin/settings/class.social.php:77
+msgid "Belarusian"
+msgstr ""
+
+#: admin/settings/class.social.php:78
+msgid "Bengali"
+msgstr ""
+
+#: admin/settings/class.social.php:79
+msgid "Bosnian"
+msgstr ""
+
+#: admin/settings/class.social.php:80
+msgid "Bulgarian"
+msgstr ""
+
+#: admin/settings/class.social.php:81
+msgid "Croatian"
+msgstr ""
+
+#: admin/settings/class.social.php:82
+msgid "Dutch (Belgie)"
+msgstr ""
+
+#: admin/settings/class.social.php:83
+msgid "Esperanto"
+msgstr ""
+
+#: admin/settings/class.social.php:84
+msgid "Estonian"
+msgstr ""
+
+#: admin/settings/class.social.php:85
+msgid "Faroese"
+msgstr ""
+
+#: admin/settings/class.social.php:86
+msgid "Georgian"
+msgstr ""
+
+#: admin/settings/class.social.php:87
+msgid "Greek"
+msgstr ""
+
+#: admin/settings/class.social.php:88
+msgid "Gujarati"
+msgstr ""
+
+#: admin/settings/class.social.php:89
+msgid "Hindi"
+msgstr ""
+
+#: admin/settings/class.social.php:90
+msgid "Icelandic"
+msgstr ""
+
+#: admin/settings/class.social.php:91
+msgid "Indonesian"
+msgstr ""
+
+#: admin/settings/class.social.php:92
+msgid "Irish"
+msgstr ""
+
+#: admin/settings/class.social.php:93
+msgid "Javanese"
+msgstr ""
+
+#: admin/settings/class.social.php:94
+msgid "Kannada"
+msgstr ""
+
+#: admin/settings/class.social.php:95
+msgid "Kazakh"
+msgstr ""
+
+#: admin/settings/class.social.php:96
+msgid "Latin"
+msgstr ""
+
+#: admin/settings/class.social.php:97
+msgid "Latvian"
+msgstr ""
+
+#: admin/settings/class.social.php:98
+msgid "Limburgish"
+msgstr ""
+
+#: admin/settings/class.social.php:99
+msgid "Lithuanian"
+msgstr ""
+
+#: admin/settings/class.social.php:100
+msgid "Macedonian"
+msgstr ""
+
+#: admin/settings/class.social.php:101
+msgid "Malagasy"
+msgstr ""
+
+#: admin/settings/class.social.php:102
+msgid "Malay"
+msgstr ""
+
+#: admin/settings/class.social.php:103
+msgid "Maltese"
+msgstr ""
+
+#: admin/settings/class.social.php:104
+msgid "Marathi"
+msgstr ""
+
+#: admin/settings/class.social.php:105
+msgid "Mongolian"
+msgstr ""
+
+#: admin/settings/class.social.php:106
+msgid "Nepali"
+msgstr ""
+
+#: admin/settings/class.social.php:107
+msgid "Punjabi"
+msgstr ""
+
+#: admin/settings/class.social.php:108
+msgid "Romansh"
+msgstr ""
+
+#: admin/settings/class.social.php:109
+msgid "Sanskrit"
+msgstr ""
+
+#: admin/settings/class.social.php:110
+msgid "Serbian"
+msgstr ""
+
+#: admin/settings/class.social.php:111
+msgid "Somali"
+msgstr ""
+
+#: admin/settings/class.social.php:112
+msgid "Swahili"
+msgstr ""
+
+#: admin/settings/class.social.php:113
+msgid "Filipino"
+msgstr ""
+
+#: admin/settings/class.social.php:114
+msgid "Tamil"
+msgstr ""
+
+#: admin/settings/class.social.php:115
+msgid "Tatar"
+msgstr ""
+
+#: admin/settings/class.social.php:116
+msgid "Telugu"
+msgstr ""
+
+#: admin/settings/class.social.php:117
+msgid "Malayalam"
+msgstr ""
+
+#: admin/settings/class.social.php:118
+msgid "Ukrainian"
+msgstr ""
+
+#: admin/settings/class.social.php:119
+msgid "Uzbek"
+msgstr ""
+
+#: admin/settings/class.social.php:120
+msgid "Vietnamese"
+msgstr ""
+
+#: admin/settings/class.social.php:121
+msgid "Xhosa"
+msgstr ""
+
+#: admin/settings/class.social.php:122
+msgid "Zulu"
+msgstr ""
+
+#: admin/settings/class.social.php:123
+msgid "Khmer"
+msgstr ""
+
+#: admin/settings/class.social.php:124
+msgid "Tajik"
+msgstr ""
+
+#: admin/settings/class.social.php:125
+msgid "Arabic"
+msgstr ""
+
+#: admin/settings/class.social.php:126
+msgid "Hebrew"
+msgstr ""
+
+#: admin/settings/class.social.php:127
+msgid "Urdu"
+msgstr ""
+
+#: admin/settings/class.social.php:128
+msgid "Persian"
+msgstr ""
+
+#: admin/settings/class.social.php:129
+msgid "Syriac"
+msgstr ""
+
+#: admin/settings/class.social.php:130
+msgid "Yiddish"
+msgstr ""
+
+#: admin/settings/class.social.php:131
+msgid "Guarani"
+msgstr ""
+
+#: admin/settings/class.social.php:132
+msgid "Quechua"
+msgstr ""
+
+#: admin/settings/class.social.php:133
+msgid "Aymara"
+msgstr ""
+
+#: admin/settings/class.social.php:134
+msgid "Northern Sami"
+msgstr ""
+
+#: admin/settings/class.social.php:135
+msgid "Pashto"
+msgstr ""
+
+#: admin/settings/class.social.php:149
+msgid "Language of Buttons"
+msgstr ""
+
+#: admin/settings/class.social.php:151
+msgid ""
+"Select the language that will be used for the social buttons in Social "
+"Lockers."
+msgstr ""
+
+#: admin/settings/class.social.php:161
+msgid "Facebook App ID"
+msgstr ""
+
+#: admin/settings/class.social.php:162
+#, php-format
+msgid ""
+"By default, the developer app id is set. If you want to use the Facebook "
+"Share or Facebook Sign-In buttons you need to <a href=\"%s\">register "
+"another app</a> id for your website."
+msgstr ""
+
+#: admin/settings/class.social.php:163 admin/settings/class.social.php:192
+#, php-format
+msgid "<a href=\"%s\" class=\"btn btn-default\">Register App</a>"
+msgstr ""
+
+#: admin/settings/class.social.php:170
+msgid "Facebook API Version"
+msgstr ""
+
+#: admin/settings/class.social.php:177
+msgid ""
+"Optional. Use the most recent version of the API (v2.3) but if Facebook "
+"buttons or widgets don't work on your website try to switch to other "
+"versions."
+msgstr ""
+
+#: admin/settings/class.social.php:187
+msgid "Twitter API Keys"
+msgstr ""
+
+#: admin/settings/class.social.php:189
+msgid "Use the default keys"
+msgstr ""
+
+#: admin/settings/class.social.php:190
+msgid "Use my own Twitter App"
+msgstr ""
+
+#: admin/settings/class.social.php:193
+#, php-format
+msgid ""
+"The Twitter Sign-In button requires a Twitter App. We prepared one for you "
+"by default. But if you worry about security, you can <a href=\"%s\">create "
+"an own app</a>. Also by creating your own Twitter app you will be able to "
+"change the title, description and image for the \"Sign In\" popup window."
+msgstr ""
+
+#: admin/settings/class.social.php:206
+msgid "Twitter Consumer Key"
+msgstr ""
+
+#: admin/settings/class.social.php:207
+msgid "The Twitter Consumer Key of your Twitter App."
+msgstr ""
+
+#: admin/settings/class.social.php:208 admin/settings/class.social.php:215
+msgid "Connect Locker"
+msgstr ""
+
+#: admin/settings/class.social.php:213
+msgid "Twitter Consumer Secret"
+msgstr ""
+
+#: admin/settings/class.social.php:214
+msgid "The Twitter Consumer Secret of your Twitter App."
+msgstr ""
+
+#: admin/settings/class.social.php:227
+msgid "Google Client ID"
+msgstr ""
+
+#: admin/settings/class.social.php:228
+#, php-format
+msgid "<a href=\"%s\" class=\"btn btn-default\">Get Client ID</a>"
+msgstr ""
+
+#: admin/settings/class.social.php:229
+#, php-format
+msgid ""
+"If you want to use the YouTube Subscribe or Google Sign-In buttons, please "
+"<a href=\"%s\">create a Client ID</a> for your website."
+msgstr ""
+
+#: admin/settings/class.social.php:241
+msgid "LinkedIn API Key"
+msgstr ""
+
+#: admin/settings/class.social.php:242
+#, php-format
+msgid "<a href=\"%s\" class=\"btn btn-default\">Get API Key</a>"
+msgstr ""
+
+#: admin/settings/class.social.php:243
+#, php-format
+msgid ""
+"If you want to use the LinkedIn Sign-In button, please <a href=\"%s\">get a "
+"API Key</a> for your website."
+msgstr ""
+
+#: admin/settings/class.stats.php:30 admin/settings/class.terms.php:30
+msgid "The data has been successfully cleared."
+msgstr ""
+
+#: admin/settings/class.stats.php:42
+msgid "Configure here how the plugin should collect the statistical data."
+msgstr ""
+
+#: admin/settings/class.stats.php:65
+msgid "Google Analytics"
+msgstr ""
+
+#: admin/settings/class.stats.php:66
+msgid ""
+"If set On, the plugin will generate <a href=\"https://support.google.com/"
+"analytics/answer/1033068?hl=en\" target=\"_blank\">events</a> for the Google "
+"Analytics when the content is unlocked.<br /><strong>Note:</strong> before "
+"enabling this feature, please <a href=\"https://support.google.com/analytics/"
+"answer/1008015?hl=en\" target=\"_blank\">make sure</a> that your website "
+"contains the Google Analytics tracker code."
+msgstr ""
+
+#: admin/settings/class.stats.php:78
+msgid "Collecting Stats"
+msgstr ""
+
+#: admin/settings/class.stats.php:79
+msgid "Turns on collecting the statistical data for reports."
+msgstr ""
+
+#: admin/settings/class.stats.php:110
+msgid "The statistical data is <strong>empty</strong>."
+msgstr ""
+
+#: admin/settings/class.stats.php:112
+#, php-format
+msgid "The statistical data takes <strong>%s</strong> on your server"
+msgstr ""
+
+#: admin/settings/class.stats.php:113
+msgid "clear data"
+msgstr ""
+
+#: admin/settings/class.stats.php:131
+msgid "Are you sure that you want to clear the current statistical data?"
+msgstr ""
+
+#: admin/settings/class.stats.php:132
+msgid "All the statistical data will be removed."
+msgstr ""
+
+#: admin/settings/class.stats.php:136
+msgid "Yes, I'm sure"
+msgstr ""
+
+#: admin/settings/class.stats.php:143
+msgid "No, return back"
+msgstr ""
+
+#: admin/settings/class.subscription.php:24
+msgid "Your Aweber Account has been successfully disconnected."
+msgstr ""
+
+#: admin/settings/class.subscription.php:36
+msgid "Set up here how you would like to save emails of your subscribers."
+msgstr ""
+
+#: admin/settings/class.subscription.php:81
+msgid "Mailing Service"
+msgstr ""
+
+#: admin/settings/class.terms.php:42
+msgid ""
+"Configure here Terms of Use and Privacy Policy for locker on your website. "
+"It's not mandatory, but improves transparency and conversions."
+msgstr ""
+
+#: admin/settings/class.terms.php:76
+msgid "Enable Policies"
+msgstr ""
+
+#: admin/settings/class.terms.php:77
+msgid ""
+"Set On to show the links to Terms of Use and Privacy Policy of your website "
+"below the Sign-In/Email lockers."
+msgstr ""
+
+#: admin/settings/class.terms.php:91
+msgid "Use Existing Pages"
+msgstr ""
+
+#: admin/settings/class.terms.php:92
+msgid ""
+"Set On, if your website already contains pages for \"Terms of Use\" and "
+"\"Privacy Policies\" and you want to use them."
+msgstr ""
+
+#: admin/settings/class.terms.php:109 admin/settings/class.terms.php:146
+#: admin/settings/class.text.php:239
+msgid "Terms of Use"
+msgstr ""
+
+#: admin/settings/class.terms.php:110
+msgid ""
+"The text of Terms of Use. The link to this text will be shown below the "
+"lockers."
+msgstr ""
+
+#: admin/settings/class.terms.php:122 admin/settings/class.terms.php:154
+#: admin/settings/class.text.php:245 admin/settings/class.text.php:246
+msgid "Privacy Policy"
+msgstr ""
+
+#: admin/settings/class.terms.php:123
+msgid ""
+"The text of Privacy Policy.  The link to this text will be shown below the "
+"lockers."
+msgstr ""
+
+#: admin/settings/class.terms.php:147
+msgid ""
+"Select a page which contains the \"Terms of Use\" for the lockers or/and "
+"your website."
+msgstr ""
+
+#: admin/settings/class.terms.php:155
+msgid ""
+"Select a page which contains the \"Privacy Policy\" for the lockers or/and "
+"your website."
+msgstr ""
+
+#: admin/settings/class.text.php:29
+msgid ""
+"You can change primary front-end text in the settings of a particular "
+"locker. Here you can change the remaining text. It will be applied to all "
+"your lockers."
+msgstr ""
+
+#: admin/settings/class.text.php:55
+msgid "Appears when the locker asks the user to confirm one's email."
+msgstr ""
+
+#: admin/settings/class.text.php:60 admin/settings/class.text.php:113
+msgid "Header"
+msgstr ""
+
+#: admin/settings/class.text.php:61
+msgid "Please Confirm Your Email"
+msgstr ""
+
+#: admin/settings/class.text.php:66 admin/settings/class.text.php:119
+msgid "Instruction"
+msgstr ""
+
+#: admin/settings/class.text.php:67
+msgid ""
+"Explain here that the user has to do to confirm one's email. Use the tag "
+"{email} to display an email address of the user."
+msgstr ""
+
+#: admin/settings/class.text.php:68
+msgid ""
+"We have sent a confirmation email to {email}. Please click on the "
+"confirmation link in the email to reveal the content."
+msgstr ""
+
+#: admin/settings/class.text.php:73
+msgid "Note #1"
+msgstr ""
+
+#: admin/settings/class.text.php:74
+msgid "Clarify when the content will be unlocked."
+msgstr ""
+
+#: admin/settings/class.text.php:75
+msgid ""
+"The content will be unlocked automatically within 10 seconds after "
+"confirmation."
+msgstr ""
+
+#: admin/settings/class.text.php:80
+msgid "Note #2"
+msgstr ""
+
+#: admin/settings/class.text.php:81
+msgid "Clarify that delivering the confirmation email may take some time."
+msgstr ""
+
+#: admin/settings/class.text.php:82
+msgid "Note delivering the email may take several minutes."
+msgstr ""
+
+#: admin/settings/class.text.php:90
+msgid "Cancel Link"
+msgstr ""
+
+#: admin/settings/class.text.php:91
+msgid "(cancel)"
+msgstr ""
+
+#: admin/settings/class.text.php:97
+msgid "Open My Inbox Button"
+msgstr ""
+
+#: admin/settings/class.text.php:98
+msgid "Open my inbox on {service}"
+msgstr ""
+
+#: admin/settings/class.text.php:99
+msgid "Use the tag {service} to display a name of a mailbox of the user."
+msgstr ""
+
+#: admin/settings/class.text.php:108
+msgid ""
+"Appears when a social network does not return an email address and the "
+"locker asks the users to enter it manually."
+msgstr ""
+
+#: admin/settings/class.text.php:114
+msgid "One Step To Complete"
+msgstr ""
+
+#: admin/settings/class.text.php:120
+msgid "Please enter your email below to continue."
+msgstr ""
+
+#: admin/settings/class.text.php:125
+msgid "Button"
+msgstr ""
+
+#: admin/settings/class.text.php:126
+msgid "OK, complete"
+msgstr ""
+
+#: admin/settings/class.text.php:136
+msgid "Sign-In Buttons"
+msgstr ""
+
+#: admin/settings/class.text.php:137
+msgid "The text which are located on the Sign-In Buttons."
+msgstr ""
+
+#: admin/settings/class.text.php:143
+msgid "Long Text"
+msgstr ""
+
+#: admin/settings/class.text.php:144
+msgid "Displayed on a wide Sign-In Button"
+msgstr ""
+
+#: admin/settings/class.text.php:145
+msgid "Sign in via {name}"
+msgstr ""
+
+#: admin/settings/class.text.php:151
+msgid "Short Text"
+msgstr ""
+
+#: admin/settings/class.text.php:152
+msgid "Displayed on a narrow Sign-In Button"
+msgstr ""
+
+#: admin/settings/class.text.php:153
+msgid "via {name}"
+msgstr ""
+
+#: admin/settings/class.text.php:162 admin/settings/class.text.php:163
+msgid "Facebook"
+msgstr "Facebook"
+
+#: admin/settings/class.text.php:169 admin/settings/class.text.php:170
+msgid "Twitter"
+msgstr "Twitter"
+
+#: admin/settings/class.text.php:176 admin/settings/class.text.php:177
+msgid "Google"
+msgstr "Google"
+
+#: admin/settings/class.text.php:183 admin/settings/class.text.php:184
+msgid "LinkedIn"
+msgstr "Linkedin"
+
+#: admin/settings/class.text.php:195
+msgid "Various text used usually with all lockers and screens."
+msgstr ""
+
+#: admin/settings/class.text.php:201
+msgid "Processing Data"
+msgstr ""
+
+#: admin/settings/class.text.php:202
+msgid "Processing data, please wait..."
+msgstr ""
+
+#: admin/settings/class.text.php:207
+msgid "Enter Your Email Manually"
+msgstr ""
+
+#: admin/settings/class.text.php:208
+msgid "or enter your email manually to sign in"
+msgstr ""
+
+#: admin/settings/class.text.php:216
+msgid "Enter Your Name"
+msgstr ""
+
+#: admin/settings/class.text.php:217
+msgid "enter your name"
+msgstr ""
+
+#: admin/settings/class.text.php:222
+msgid "Enter Your Email Address"
+msgstr ""
+
+#: admin/settings/class.text.php:223
+msgid "enter your email address"
+msgstr ""
+
+#: admin/settings/class.text.php:231
+msgid "You Agree With"
+msgstr ""
+
+#: admin/settings/class.text.php:232
+msgid ""
+"Use the tag {links} to display the links to the Terms Of Use and Privacy "
+"Policy."
+msgstr ""
+
+#: admin/settings/class.text.php:233
+msgid "By clicking on the button(s), you agree with {links}"
+msgstr ""
+
+#: admin/settings/class.text.php:238
+msgid "Terms Of Use"
+msgstr ""
+
+#: admin/settings/class.text.php:255
+msgid "Or Wait"
+msgstr ""
+
+#: admin/settings/class.text.php:256
+msgid "or wait {timer}s"
+msgstr ""
+
+#: admin/settings/class.text.php:257
+msgid ""
+"Use the tag {timer} to display the number of seconds remaining to unlocking."
+msgstr ""
+
+#: admin/settings/class.text.php:264
+msgid "Close"
+msgstr ""
+
+#: admin/settings/class.text.php:265
+msgid "close"
+msgstr ""
+
+#: admin/settings/class.text.php:271
+msgid "Or"
+msgstr ""
+
+#: admin/settings/class.text.php:272
+msgid "OR"
+msgstr ""
+
+#: admin/settings/class.text.php:284
+msgid "Errors & Notices"
+msgstr ""
+
+#: admin/settings/class.text.php:285
+msgid "The text which users see when something goes wrong."
+msgstr ""
+
+#: admin/settings/class.text.php:291
+msgid "Empty Email"
+msgstr ""
+
+#: admin/settings/class.text.php:292
+msgid "Please enter your email address."
+msgstr ""
+
+#: admin/settings/class.text.php:297
+msgid "Incorrect Email"
+msgstr ""
+
+#: admin/settings/class.text.php:298
+msgid "It seems you entered an incorrect email address. Please check it."
+msgstr ""
+
+#: admin/settings/class.text.php:303
+msgid "Empty Name"
+msgstr ""
+
+#: admin/settings/class.text.php:304
+msgid "Please enter your name."
+msgstr ""
+
+#: admin/settings/class.text.php:312
+msgid "Subscription Canceled"
+msgstr ""
+
+#: admin/settings/class.text.php:313
+msgid "You have canceled your subscription."
+msgstr ""
+
+#: admin/settings/class.text.php:318
+msgid "Not Signed In"
+msgstr ""
+
+#: admin/settings/class.text.php:319
+msgid "Sorry, but you have not signed in. Please try again."
+msgstr ""
+
+#: admin/settings/class.text.php:324
+msgid "Not Granted Permissions"
+msgstr ""
+
+#: admin/settings/class.text.php:325
+msgid "Use the tag {permissions} to show required permissions."
+msgstr ""
+
+#: admin/settings/class.text.php:326
+msgid ""
+"Sorry, but you have not granted all the required permissions "
+"({permissions}). Please try again."
+msgstr ""
+
+#: connect.php:33
+#, php-format
+msgid ""
+"Unable to activate <strong>%s</strong>. Please make sure that the following "
+"plugins are updated to the latest versions: <strong>%s</strong>. Deactivate "
+"%s and try to update the specified plugins."
+msgstr ""
+
+#: connect.php:34
+#, php-format
+msgid ""
+"Unable to activate <strong>%s</strong>. Please make sure that the following "
+"plugin is updated to the latest version: <strong>%s</strong>. Deactivate %s "
+"and try to update the specified plugin."
+msgstr ""
+
+#: extras/visual-composer/boot.php:18
+msgid "Select locker to insert"
+msgstr ""
+
+#: extras/visual-composer/boot.php:28 extras/visual-composer/boot.php:46
+#: extras/visual-composer/boot.php:69
+msgid "BizPanda"
+msgstr ""
+
+#: extras/visual-composer/boot.php:32
+msgid "Adds one of existing Social Lockers."
+msgstr ""
+
+#: extras/visual-composer/boot.php:48
+msgid "Email Locker"
+msgstr ""
+
+#: extras/visual-composer/boot.php:50
+msgid "Adds one of existing Email Lockers."
+msgstr ""
+
+#: extras/visual-composer/boot.php:73
+msgid "Sign-In Locker"
+msgstr "Sign-In Sınırlandırıcısı"
+
+#: extras/visual-composer/boot.php:75
+msgid "Adds one of existing Sign-In Lockers."
+msgstr ""
+
+#: includes/functions.php:105
+msgid "Biz<span class=\"onp-sl-panda\">Panda</span>"
+msgstr ""
+
+#: includes/functions.php:411
+#, php-format
+msgid "(no titled, ID=%s)"
+msgstr ""
+
+#: includes/metaboxes/advanced-options.php:68
+msgid "Advanced Options"
+msgstr ""
+
+#: includes/metaboxes/advanced-options.php:91
+msgid "Close Icon"
+msgstr ""
+
+#: includes/metaboxes/advanced-options.php:92
+msgid "Shows the Close Icon at the corner."
+msgstr ""
+
+#: includes/metaboxes/advanced-options.php:100
+msgid "Timer Interval"
+msgstr ""
+
+#: includes/metaboxes/advanced-options.php:101
+msgid "Sets a countdown interval for the locker."
+msgstr ""
+
+#: includes/metaboxes/advanced-options.php:110
+msgid "AJAX"
+msgstr ""
+
+#: includes/metaboxes/advanced-options.php:111
+msgid "If On, locked content will be cut from a page source code."
+msgstr ""
+
+#: includes/metaboxes/advanced-options.php:125
+msgid "Highlight"
+msgstr ""
+
+#: includes/metaboxes/advanced-options.php:126
+msgid "Defines whether the locker must use the Highlight effect."
+msgstr ""
+
+#: includes/metaboxes/advanced-options.php:136
+#: includes/metaboxes/visability-options.php:137
+msgid ""
+"<i class=\"fa fa-star-o\"></i> Go Premium <i class=\"fa fa-star-o\"></i><br /"
+">To Unlock These Features <a href=\"#\" class=\"opnada-button\">Learn More</"
+"a>"
+msgstr ""
+
+#: includes/metaboxes/basic-options.php:59
+msgid "Basic Options"
+msgstr ""
+
+#: includes/metaboxes/basic-options.php:84
+msgid "This content is locked!"
+msgstr ""
+
+#: includes/metaboxes/basic-options.php:85
+msgid "Please support us, use one of the buttons below to unlock the content."
+msgstr ""
+"Aşağıdaki butonlardan bir tanesine tıklayarak, bizi destekleyin! İçerik "
+"anında görüntülenecektir."
+
+#: includes/metaboxes/basic-options.php:90
+msgid "This Content Is Only For Subscribers"
+msgstr ""
+
+#: includes/metaboxes/basic-options.php:91
+msgid "Please subscribe to unlock this content. Just enter your email below."
+msgstr ""
+
+#: includes/metaboxes/basic-options.php:95
+msgid "Sing In To Unlock This Content"
+msgstr ""
+
+#: includes/metaboxes/basic-options.php:96
+msgid ""
+"Please sign in. It's free. Just click one of the buttons below to get "
+"instant access."
+msgstr "Lütfen ücretsiz giriş yapın. Butonlara tıklayın ve anında erişim alın."
+
+#: includes/metaboxes/basic-options.php:106
+msgid "Locker header"
+msgstr ""
+
+#: includes/metaboxes/basic-options.php:107
+msgid ""
+"Type a header which attracts attention or calls to action. You can leave "
+"this field empty."
+msgstr ""
+
+#: includes/metaboxes/basic-options.php:114
+msgid "Locker message"
+msgstr ""
+
+#: includes/metaboxes/basic-options.php:115
+msgid "Type a message which will appear under the header."
+msgstr ""
+
+#: includes/metaboxes/basic-options.php:116
+msgid "Shortcodes: [post_title], [post_url]."
+msgstr ""
+
+#: includes/metaboxes/basic-options.php:136
+msgid "Buttton Text"
+msgstr "Buton Metni"
+
+#: includes/metaboxes/basic-options.php:137
+msgid "The text on the button. Call to action!"
+msgstr ""
+
+#: includes/metaboxes/basic-options.php:138
+msgid "subscribe to unlock"
+msgstr ""
+
+#: includes/metaboxes/basic-options.php:144
+msgid "After Buttton"
+msgstr "Butondan Sonra"
+
+#: includes/metaboxes/basic-options.php:145
+msgid "The text below the button. Guarantee something."
+msgstr "Buton öncesi metin. Bir şey vaat edin!"
+
+#: includes/metaboxes/basic-options.php:146
+#, php-format
+msgid "Your email address is 100% safe from spam!"
+msgstr "E-posta adresiniz bizimle %100 güvende! Asla spam yapmayacağız."
+
+#: includes/metaboxes/basic-options.php:175
+msgid "Select the most suitable theme."
+msgstr ""
+
+#: includes/metaboxes/basic-options.php:188
+msgid "Full (classic)"
+msgstr ""
+
+#: includes/metaboxes/basic-options.php:190
+msgid "Blurring"
+msgstr ""
+
+#: includes/metaboxes/basic-options.php:190
+msgid ""
+"Works in all browsers except IE 10-11 (In IE 10-10, the transparency mode "
+"will be applied)"
+msgstr ""
+
+#: includes/metaboxes/basic-options.php:192
+#: includes/metaboxes/basic-options.php:210
+msgid "Overlap Mode"
+msgstr ""
+
+#: includes/metaboxes/basic-options.php:193
+#: includes/metaboxes/basic-options.php:211
+msgid "Choose the way how your locker should lock the content."
+msgstr ""
+
+#: includes/metaboxes/basic-options.php:208
+#, php-format
+msgid ""
+"This option is available only in the <a href=\"%s\" target=\"_blank"
+"\">premium version</a> of the plugin (the transparency mode will be used in "
+"the free version)"
+msgstr ""
+
+#: includes/metaboxes/basic-options.php:223
+msgid "Top Position"
+msgstr ""
+
+#: includes/metaboxes/basic-options.php:224
+msgid "Middle Position"
+msgstr ""
+
+#: includes/metaboxes/basic-options.php:225
+msgid "Scrolling (N/A in Preview)"
+msgstr ""
+
+#: includes/metaboxes/basic-options.php:253
+#, php-format
+msgid ""
+"<a href=\"%s\" target=\"_blank\">Click here</a> to edit the front-end text "
+"shared for all lockers."
+msgstr ""
+
+#: includes/metaboxes/bulk-locking.php:57
+msgid "Batch Locking"
+msgstr ""
+
+#: includes/metaboxes/bulk-locking.php:83
+msgid "No title"
+msgstr ""
+
+#: includes/metaboxes/bulk-locking.php:171
+msgid ""
+"You set the the batch locking based on CSS Selector. The visibility options "
+"don't support CSS selectors."
+msgstr ""
+
+#: includes/metaboxes/bulk-locking.php:188
+msgid ""
+"Batch Locking allows to apply the locker shortcode to your posts "
+"automatically."
+msgstr ""
+
+#: includes/metaboxes/bulk-locking.php:193
+msgid "No batch lock"
+msgstr ""
+
+#: includes/metaboxes/bulk-locking.php:195
+#: includes/metaboxes/bulk-locking.php:239
+msgid "Setup Batch Lock"
+msgstr ""
+
+#: includes/metaboxes/bulk-locking.php:218
+msgid ""
+"Every content matching the given CSS selector will be locked on every page:"
+msgstr ""
+
+#: includes/metaboxes/bulk-locking.php:236
+#: includes/metaboxes/bulk-locking.php:430
+msgid "Cancel"
+msgstr ""
+
+#: includes/metaboxes/bulk-locking.php:246
+#, php-format
+msgid ""
+"Recommended to turn on the Interrelation option on the <a target=\"_blank\" "
+"href=\"%s\">Common Settings</a> page. It allows to unlock all lockers when "
+"one is unlocked."
+msgstr ""
+
+#: includes/metaboxes/bulk-locking.php:251
+msgid "Don't forget to apply made changes via the Update button above."
+msgstr ""
+
+#: includes/metaboxes/bulk-locking.php:259
+msgid "Select Way Of Batch Locking"
+msgstr ""
+
+#: includes/metaboxes/bulk-locking.php:264
+msgid "Skip & Lock"
+msgstr ""
+
+#: includes/metaboxes/bulk-locking.php:265
+msgid "More Tag"
+msgstr ""
+
+#: includes/metaboxes/bulk-locking.php:266
+#: includes/metaboxes/bulk-locking.php:416
+msgid "CSS Selector"
+msgstr ""
+
+#: includes/metaboxes/bulk-locking.php:271
+msgid ""
+"Enter the number of paragraphs which will be visible for users at the "
+"beginning of your posts and which will be free from locking. The remaining "
+"paragraphs will be locked."
+msgstr ""
+
+#: includes/metaboxes/bulk-locking.php:278
+msgid "The number of paragraphs to skip"
+msgstr ""
+
+#: includes/metaboxes/bulk-locking.php:281
+msgid "Please enter a positive integer value."
+msgstr ""
+
+#: includes/metaboxes/bulk-locking.php:288
+#: includes/metaboxes/bulk-locking.php:360
+msgid "Exclude Posts"
+msgstr ""
+
+#: includes/metaboxes/bulk-locking.php:291
+#: includes/metaboxes/bulk-locking.php:363
+msgid "(Optional) Enter posts IDs comma separated, for example, \"19,25,33\"."
+msgstr ""
+
+#: includes/metaboxes/bulk-locking.php:295
+#: includes/metaboxes/bulk-locking.php:367
+msgid "Exclude Categories"
+msgstr ""
+
+#: includes/metaboxes/bulk-locking.php:298
+#: includes/metaboxes/bulk-locking.php:370
+msgid "(Optional) Enter categories IDs comma separated, for example, \"4,7\"."
+msgstr ""
+
+#: includes/metaboxes/bulk-locking.php:304
+#: includes/metaboxes/bulk-locking.php:376
+msgid "Posts types to lock"
+msgstr ""
+
+#: includes/metaboxes/bulk-locking.php:306
+#: includes/metaboxes/bulk-locking.php:378
+msgid "Choose post types for batch locking."
+msgstr ""
+
+#: includes/metaboxes/bulk-locking.php:319
+#: includes/metaboxes/bulk-locking.php:391
+msgid ""
+"Please choose at least one post type to lock. Otherwise, nothing to lock."
+msgstr ""
+
+#: includes/metaboxes/bulk-locking.php:327
+msgid "For example,"
+msgstr ""
+
+#: includes/metaboxes/bulk-locking.php:328
+msgid ""
+"If you enter 2, two first paragraphs will be visible, others will be locked."
+msgstr ""
+
+#: includes/metaboxes/bulk-locking.php:338
+msgid "this will be locked"
+msgstr ""
+
+#: includes/metaboxes/bulk-locking.php:353
+msgid ""
+"All content after the More Tag will be locked in all your posts. If a post "
+"doesn't have the More Tag, the post will be shown without locking."
+msgstr ""
+
+#: includes/metaboxes/bulk-locking.php:396
+msgid "What is the More Tag?"
+msgstr ""
+
+#: includes/metaboxes/bulk-locking.php:399
+msgid ""
+"Check out <a href=\"http://en.support.wordpress.com/splitting-content/more-"
+"tag/\" target=\"_blank\">Splitting Content > More Tag</a> to lean more."
+msgstr ""
+
+#: includes/metaboxes/bulk-locking.php:408
+msgid ""
+"CSS selectors allow accurately choose which content will be locked by usign "
+"CSS classes or IDs of elements placed on pages. If you don't know what is "
+"it, please don't use it."
+msgstr ""
+
+#: includes/metaboxes/bulk-locking.php:411
+msgid ""
+"Check out <a href=\"http://www.w3schools.com/cssref/css_selectors.asp\" "
+"target=\"_blank\">CSS Selector Reference</a> to lean more."
+msgstr ""
+
+#: includes/metaboxes/bulk-locking.php:419
+msgid "For example, \"#somecontent .my-class, .my-another-class\""
+msgstr ""
+
+#: includes/metaboxes/bulk-locking.php:422
+msgid "Please enter a css selector to lock."
+msgstr ""
+
+#: includes/metaboxes/bulk-locking.php:431
+msgid "Save"
+msgstr ""
+
+#: includes/metaboxes/manual-locking.php:58
+msgid "Manual Locking <i>(recommended)</i>"
+msgstr ""
+
+#: includes/metaboxes/manual-locking.php:87
+msgid ""
+"Wrap content you want to lock via the following shortcode in your post "
+"editor:"
+msgstr ""
+
+#: includes/metaboxes/more-features.php:57
+#: includes/metaboxes/more-features.php:82
+msgid "More Features?"
+msgstr "Daha fazla özellik"
+
+#: includes/metaboxes/more-features.php:83
+#, php-format
+msgid "You Use Only 30% of Opt-In Panda!"
+msgstr ""
+
+#: includes/metaboxes/more-features.php:87
+msgid "30% Complete"
+msgstr "30% tamamlandı."
+
+#: includes/metaboxes/more-features.php:99
+msgid "More Social Buttons (+8)"
+msgstr ""
+
+#: includes/metaboxes/more-features.php:100
+msgid "More Themes (+4)"
+msgstr ""
+
+#: includes/metaboxes/more-features.php:101
+#: includes/metaboxes/more-features.php:108
+msgid "Blurring Effect"
+msgstr "Blurring(Karartma) Efekti"
+
+#: includes/metaboxes/more-features.php:102
+msgid "Advanced Options (+8)"
+msgstr "Gelişmiş Seçenekler (+8)"
+
+#: includes/metaboxes/more-features.php:106
+msgid "More Social Buttons (+4)"
+msgstr ""
+
+#: includes/metaboxes/more-features.php:107
+msgid "More themes (+4)"
+msgstr ""
+
+#: includes/metaboxes/more-features.php:109
+msgid "Advanced options (+8)"
+msgstr ""
+
+#: includes/metaboxes/more-features.php:116
+#, php-format
+msgid ""
+"<a href=\"%s\" class=\"btn btn-primary btn-large\">Try 7-days Trial "
+"Version<br /><span>(activate by one click)</span></a><a href=\"%s\" class="
+"\"sl-buy\"> or <strong>buy</strong> the full premium version now!</a>"
+msgstr ""
+
+#: includes/metaboxes/more-features.php:120
+#, php-format
+msgid ""
+"<a href=\"%s\" class=\"btn btn-primary btn-large\">Get Premium for $24<br /"
+"><span>(it will take a pair of minutes)</span></a>"
+msgstr ""
+"<a href=\"%s\" class=\"btn btn-primary btn-large\">49 TL'ye Premium Satın "
+"Alın.<br /><span>(sadece 1-2 dakikanızı alacak</span></a>"
+
+#: includes/metaboxes/preview.php:46
+msgid "Locker Preview"
+msgstr ""
+
+#: includes/metaboxes/preview.php:100
+msgid "Want more themes?"
+msgstr ""
+
+#: includes/metaboxes/preview.php:110
+msgid "Note"
+msgstr ""
+
+#: includes/metaboxes/preview.php:110
+msgid "In the preview mode, some features of the locker may not work properly."
+msgstr ""
+
+#: includes/metaboxes/preview.php:121
+msgid "Your browser doen't support the iframe tag."
+msgstr ""
+
+#: includes/metaboxes/terms-privacy.php:65
+#, php-format
+msgid ""
+"You can change the Terms & Policies options on <a href=\"%s\" target=\"_blank"
+"\">this page</a>."
+msgstr ""
+
+#: includes/metaboxes/visability-options.php:66
+msgid "Visibility Options"
+msgstr ""
+
+#: includes/metaboxes/visability-options.php:91
+msgid "Hide For Members"
+msgstr ""
+
+#: includes/metaboxes/visability-options.php:92
+msgid "If on, hides the locker for registered members."
+msgstr ""
+
+#: includes/metaboxes/visability-options.php:100
+msgid "Lock Delay"
+msgstr ""
+
+#: includes/metaboxes/visability-options.php:101
+msgid "If on, shows the locker only in posts older than specified age."
+msgstr ""
+
+#: includes/metaboxes/visability-options.php:113
+msgid "ReLock"
+msgstr ""
+
+#: includes/metaboxes/visability-options.php:114
+msgid ""
+"If on, being unlocked the locker will appear again after specified interval."
+msgstr ""
+
+#: includes/metaboxes/visability-options.php:126
+msgid "Mobile"
+msgstr ""
+
+#: includes/metaboxes/visability-options.php:127
+msgid "If on, the locker will appear on mobile devices."
+msgstr ""
+
+#: includes/metaboxes/visability-options.php:157
+msgid "The locker will appear in posts that are older than:"
+msgstr ""
+
+#: includes/metaboxes/visability-options.php:160
+#: includes/metaboxes/visability-options.php:181
+msgid "day(s)"
+msgstr ""
+
+#: includes/metaboxes/visability-options.php:161
+#: includes/metaboxes/visability-options.php:182
+msgid "hour(s)"
+msgstr ""
+
+#: includes/metaboxes/visability-options.php:162
+#: includes/metaboxes/visability-options.php:183
+msgid "minute(s)"
+msgstr ""
+
+#: includes/metaboxes/visability-options.php:178
+msgid "The locker will reappear after:"
+msgstr ""
+
+#: includes/metaboxes/visability-options.php:185
+msgid "Any changes will apply only for new users."
+msgstr ""
+
+#: includes/post-types.php:51
+msgid "Lockers"
+msgstr ""
+
+#: includes/post-types.php:52
+msgid "Locker"
+msgstr ""
+
+#: includes/post-types.php:71
+msgid "All Lockers"
+msgstr "Tüm Sınırlandırıcılar"
+
+#: includes/post-types.php:73
+msgid "Add new"
+msgstr ""
+
+#: includes/post-types.php:74
+msgid "Edit"
+msgstr ""
+
+#: includes/post-types.php:75
+msgid "Edit Item"
+msgstr ""
+
+#: includes/post-types.php:76
+msgid "New Item"
+msgstr ""
+
+#: includes/post-types.php:77
+msgid "View"
+msgstr ""
+
+#: includes/post-types.php:78
+msgid "View Item"
+msgstr ""
+
+#: includes/post-types.php:79
+msgid "Search Items"
+msgstr ""
+
+#: includes/post-types.php:80
+msgid "No Items found"
+msgstr ""
+
+#: includes/post-types.php:81
+msgid "No Items found in trash"
+msgstr ""
+
+#: includes/post-types.php:82
+msgid "Parent Item"
+msgstr ""
+
+#: includes/shortcodes.php:55
+#, php-format
+msgid ""
+"<div><strong>[Opt-In Panda] The locker [id=%d] doesn't exist or the default "
+"lockers were deleted.</strong></div>"
+msgstr ""
+
+#: includes/themes.php:166 themes/dandyish/editable-options.php:32
+#: themes/dandyish/editable-options.php:84
+#: themes/dandyish/editable-options.php:163
+#: themes/flat/editable-options.php:33 themes/glass/editable-options.php:33
+#: themes/glass/editable-options.php:86 themes/secrets/editable-options.php:32
+#: themes/secrets/editable-options.php:234
+#: themes/secrets/editable-options.php:274
+#: themes/secrets/editable-options.php:314
+#: themes/secrets/editable-options.php:354
+#: themes/secrets/editable-options.php:400
+#: themes/secrets/editable-options.php:440
+#: themes/starter/editable-options.php:32
+#: themes/starter/editable-options.php:149
+msgid "Color"
+msgstr ""
+
+#: includes/themes.php:172 themes/dandyish/editable-options.php:38
+#: themes/flat/editable-options.php:39 themes/glass/editable-options.php:39
+#: themes/secrets/editable-options.php:38
+#: themes/starter/editable-options.php:38
+msgid "Set up color and opacity:"
+msgstr ""
+
+#: includes/themes.php:179 themes/dandyish/editable-options.php:45
+#: themes/dandyish/editable-options.php:97
+#: themes/dandyish/editable-options.php:176
+#: themes/flat/editable-options.php:46 themes/glass/editable-options.php:46
+#: themes/glass/editable-options.php:99 themes/secrets/editable-options.php:45
+#: themes/secrets/editable-options.php:246
+#: themes/secrets/editable-options.php:286
+#: themes/secrets/editable-options.php:326
+#: themes/secrets/editable-options.php:366
+#: themes/secrets/editable-options.php:412
+#: themes/secrets/editable-options.php:452
+#: themes/starter/editable-options.php:45
+msgid "Gradient"
+msgstr ""
+
+#: includes/themes.php:185 themes/flat/editable-options.php:52
+#: themes/secrets/editable-options.php:51
+#: themes/secrets/editable-options.php:252
+#: themes/secrets/editable-options.php:292
+#: themes/secrets/editable-options.php:332
+#: themes/secrets/editable-options.php:372
+#: themes/secrets/editable-options.php:418
+#: themes/secrets/editable-options.php:458
+msgid "Set up gradient"
+msgstr ""
+
+#: includes/themes.php:192 themes/dandyish/editable-options.php:57
+#: themes/dandyish/editable-options.php:109
+#: themes/dandyish/editable-options.php:188
+#: themes/flat/editable-options.php:58 themes/glass/editable-options.php:59
+#: themes/glass/editable-options.php:111
+#: themes/secrets/editable-options.php:57
+#: themes/starter/editable-options.php:57
+msgid "Pattern"
+msgstr ""
+
+#: includes/themes.php:198 themes/dandyish/editable-options.php:63
+#: themes/flat/editable-options.php:64 themes/glass/editable-options.php:65
+#: themes/secrets/editable-options.php:63
+#: themes/starter/editable-options.php:63
+msgid "Set up pattern"
+msgstr ""
+
+#: themes/dandyish/editable-options.php:13 themes/flat/editable-options.php:12
+#: themes/glass/editable-options.php:14 themes/secrets/editable-options.php:13
+#: themes/starter/editable-options.php:13
+msgid "Locker Container"
+msgstr ""
+
+#: themes/dandyish/editable-options.php:23 themes/flat/editable-options.php:22
+#: themes/flat/editable-options.php:29 themes/glass/editable-options.php:24
+#: themes/great-attractor/editable-options.php:175
+#: themes/great-attractor/editable-options.php:276
+#: themes/great-attractor/editable-options.php:367
+#: themes/secrets/editable-options.php:22
+#: themes/secrets/editable-options.php:28
+#: themes/starter/editable-options.php:23
+msgid "Background"
+msgstr ""
+
+#: themes/dandyish/editable-options.php:51
+#: themes/glass/editable-options.php:52 themes/starter/editable-options.php:51
+msgid "Set up gradient:"
+msgstr ""
+
+#: themes/dandyish/editable-options.php:75
+msgid "Outer Border"
+msgstr ""
+
+#: themes/dandyish/editable-options.php:90
+#: themes/glass/editable-options.php:92
+msgid "Set up color for outer border:"
+msgstr ""
+
+#: themes/dandyish/editable-options.php:103
+#: themes/glass/editable-options.php:105
+msgid "Set up gradient for outer border:"
+msgstr ""
+
+#: themes/dandyish/editable-options.php:115
+#: themes/glass/editable-options.php:117
+msgid "Set up pattern for outer border:"
+msgstr ""
+
+#: themes/dandyish/editable-options.php:134
+#: themes/glass/editable-options.php:126
+#: themes/great-attractor/editable-options.php:81
+#: themes/great-attractor/editable-options.php:226
+#: themes/secrets/editable-options.php:86
+msgid "Outer border width"
+msgstr ""
+
+#: themes/dandyish/editable-options.php:143
+#: themes/glass/editable-options.php:135
+#: themes/great-attractor/editable-options.php:91
+#: themes/great-attractor/editable-options.php:236
+#: themes/secrets/editable-options.php:96
+msgid "Outer border radius"
+msgstr ""
+
+#: themes/dandyish/editable-options.php:154
+msgid "Inner Border"
+msgstr ""
+
+#: themes/dandyish/editable-options.php:169
+msgid "Set up color for inner border:"
+msgstr ""
+
+#: themes/dandyish/editable-options.php:182
+msgid "Set up gradient for inner border:"
+msgstr ""
+
+#: themes/dandyish/editable-options.php:194
+msgid "Set up pattern for inner border:"
+msgstr ""
+
+#: themes/dandyish/editable-options.php:203
+#: themes/secrets/editable-options.php:111
+msgid "Inner border width"
+msgstr ""
+
+#: themes/dandyish/editable-options.php:212
+#: themes/secrets/editable-options.php:121
+msgid "Inner border radius"
+msgstr ""
+
+#: themes/dandyish/editable-options.php:223
+#: themes/flat/editable-options.php:76 themes/glass/editable-options.php:146
+#: themes/great-attractor/editable-options.php:102
+#: themes/great-attractor/editable-options.php:247
+#: themes/great-attractor/editable-options.php:323
+#: themes/great-attractor/editable-options.php:415
+#: themes/secrets/editable-options.php:131
+#: themes/starter/editable-options.php:75
+msgid "Text"
+msgstr ""
+
+#: themes/dandyish/editable-options.php:228
+#: themes/flat/editable-options.php:81 themes/glass/editable-options.php:151
+#: themes/great-attractor/editable-options.php:107
+#: themes/secrets/editable-options.php:136
+#: themes/starter/editable-options.php:80
+msgid "Header text"
+msgstr ""
+
+#: themes/dandyish/editable-options.php:239
+#: themes/flat/editable-options.php:92 themes/glass/editable-options.php:162
+#: themes/great-attractor/editable-options.php:118
+#: themes/secrets/editable-options.php:147
+#: themes/starter/editable-options.php:91
+msgid "Message text"
+msgstr ""
+
+#: themes/dandyish/editable-options.php:251
+#: themes/flat/editable-options.php:104 themes/glass/editable-options.php:174
+#: themes/secrets/editable-options.php:159
+msgid "Header icons"
+msgstr ""
+
+#: themes/dandyish/editable-options.php:260
+#: themes/flat/editable-options.php:113 themes/glass/editable-options.php:183
+#: themes/great-attractor/editable-options.php:342
+#: themes/great-attractor/editable-options.php:434
+#: themes/secrets/editable-options.php:167
+#: themes/starter/editable-options.php:105
+msgid "Paddings"
+msgstr ""
+
+#: themes/dandyish/editable-options.php:265
+#: themes/flat/editable-options.php:118 themes/glass/editable-options.php:188
+#: themes/secrets/editable-options.php:172
+#: themes/starter/editable-options.php:110
+msgid "Box paddings"
+msgstr ""
+
+#: themes/dandyish/editable-options.php:273
+#: themes/flat/editable-options.php:126 themes/glass/editable-options.php:196
+#: themes/secrets/editable-options.php:180
+#: themes/starter/editable-options.php:118
+msgid "Margin after header"
+msgstr ""
+
+#: themes/dandyish/editable-options.php:281
+#: themes/flat/editable-options.php:134 themes/glass/editable-options.php:204
+#: themes/secrets/editable-options.php:188
+#: themes/starter/editable-options.php:126
+msgid "Margin after message"
+msgstr ""
+
+#: themes/dandyish/editable-options.php:290
+#: themes/flat/editable-options.php:144 themes/glass/editable-options.php:214
+#: themes/secrets/editable-options.php:198
+#: themes/starter/editable-options.php:136
+msgid "Locker Buttons"
+msgstr ""
+
+#: themes/dandyish/editable-options.php:300
+#: themes/glass/editable-options.php:225
+#: themes/starter/editable-options.php:144
+msgid "Mounts"
+msgstr ""
+
+#: themes/dandyish/editable-options.php:305
+#: themes/glass/editable-options.php:230
+msgid "Color and opacity"
+msgstr ""
+
+#: themes/dandyish/editable-options.php:312
+#: themes/glass/editable-options.php:237
+#: themes/great-attractor/editable-options.php:312
+#: themes/great-attractor/editable-options.php:404
+msgid "Border radius"
+msgstr ""
+
+#: themes/flat/editable-options.php:154
+msgid "Cover Backgrounds"
+msgstr ""
+
+#: themes/flat/editable-options.php:159
+msgid "Twitter cover color"
+msgstr ""
+
+#: themes/flat/editable-options.php:165
+msgid "Facebook cover color"
+msgstr ""
+
+#: themes/flat/editable-options.php:171
+msgid "Google cover color"
+msgstr ""
+
+#: themes/flat/editable-options.php:177
+msgid "LinkedIn cover color"
+msgstr ""
+
+#: themes/flat/editable-options.php:186
+#: themes/secrets/editable-options.php:207
+msgid "Cover Text"
+msgstr ""
+
+#: themes/flat/editable-options.php:191
+#: themes/great-attractor/editable-options.php:252
+#: themes/great-attractor/editable-options.php:328
+#: themes/great-attractor/editable-options.php:420
+#: themes/secrets/editable-options.php:212
+msgid "Font"
+msgstr ""
+
+#: themes/flat/editable-options.php:210
+msgid "VKontakte cover color"
+msgstr ""
+
+#: themes/flat/editable-options.php:217
+msgid "Odnoklassniki cover color"
+msgstr ""
+
+#: themes/glass/editable-options.php:77
+#: themes/great-attractor/editable-options.php:290
+#: themes/great-attractor/editable-options.php:382
+msgid "Border"
+msgstr ""
+
+#: themes/great-attractor/editable-options.php:12
+msgid "Container"
+msgstr ""
+
+#: themes/great-attractor/editable-options.php:22
+msgid "Backgrounds"
+msgstr ""
+
+#: themes/great-attractor/editable-options.php:25
+msgid "Primary background"
+msgstr ""
+
+#: themes/great-attractor/editable-options.php:32
+msgid "Secondary background"
+msgstr ""
+
+#: themes/great-attractor/editable-options.php:44
+#: themes/great-attractor/editable-options.php:189
+#: themes/secrets/editable-options.php:74
+msgid "Borders"
+msgstr ""
+
+#: themes/great-attractor/editable-options.php:47
+msgid "Top border background"
+msgstr ""
+
+#: themes/great-attractor/editable-options.php:66
+msgid "Top border height"
+msgstr ""
+
+#: themes/great-attractor/editable-options.php:74
+#: themes/great-attractor/editable-options.php:219
+#: themes/secrets/editable-options.php:79
+msgid "Outer border color"
+msgstr ""
+
+#: themes/great-attractor/editable-options.php:129
+msgid "Service text"
+msgstr ""
+
+#: themes/great-attractor/editable-options.php:140
+msgid "Note text"
+msgstr ""
+
+#: themes/great-attractor/editable-options.php:151
+msgid "Footer text"
+msgstr ""
+
+#: themes/great-attractor/editable-options.php:165
+msgid "Social Buttons"
+msgstr ""
+
+#: themes/great-attractor/editable-options.php:194
+msgid "Facebook left border color"
+msgstr ""
+
+#: themes/great-attractor/editable-options.php:200
+msgid "Twitter left border color"
+msgstr ""
+
+#: themes/great-attractor/editable-options.php:206
+msgid "Google left border color"
+msgstr ""
+
+#: themes/great-attractor/editable-options.php:212
+msgid "LinkedIn left border color"
+msgstr ""
+
+#: themes/great-attractor/editable-options.php:266
+msgid "Form Buttons"
+msgstr ""
+
+#: themes/great-attractor/editable-options.php:295
+#: themes/great-attractor/editable-options.php:387
+msgid "Border color"
+msgstr ""
+
+#: themes/great-attractor/editable-options.php:302
+#: themes/great-attractor/editable-options.php:394
+msgid "Border width"
+msgstr ""
+
+#: themes/great-attractor/editable-options.php:347
+#: themes/great-attractor/editable-options.php:439
+msgid "Inner paddings"
+msgstr ""
+
+#: themes/great-attractor/editable-options.php:357
+msgid "Form Textboxes"
+msgstr ""
+
+#: themes/great-attractor/editable-options.php:370
+msgid "Standard background"
+msgstr ""
+
+#: themes/secrets/editable-options.php:104
+msgid "Inner border color"
+msgstr ""
+
+#: themes/secrets/editable-options.php:224
+msgid "Twitter Color"
+msgstr ""
+
+#: themes/secrets/editable-options.php:240
+#: themes/secrets/editable-options.php:280
+#: themes/secrets/editable-options.php:320
+#: themes/secrets/editable-options.php:360
+#: themes/secrets/editable-options.php:406
+#: themes/secrets/editable-options.php:446
+msgid "Set up color"
+msgstr ""
+
+#: themes/secrets/editable-options.php:264
+msgid "Facebook Color"
+msgstr ""
+
+#: themes/secrets/editable-options.php:304
+msgid "Google Color"
+msgstr ""
+
+#: themes/secrets/editable-options.php:344
+msgid "LinkedIn Color"
+msgstr ""
+
+#: themes/secrets/editable-options.php:390
+msgid "Vkontakte Color"
+msgstr ""
+
+#: themes/secrets/editable-options.php:430
+msgid "Odnoklassniki Color"
+msgstr ""
+
+#~ msgid "Sign-In Locker (default)"
+#~ msgstr "Sign-In Locker (varsayılan)"
+
+#~ msgid "Sign In To Unlock This Content"
+#~ msgstr "Bu İçeriği Görmek İçin Giriş Yap"
+
+#~ msgid ""
+#~ "This theme is available only in the <a href=\"%s\" target=\"_blank"
+#~ "\">premium version</a> of the plugin"
+#~ msgstr ""
+#~ "Bu tema sadece, <a href=\"%s\" target=\"_blank\">eklentinin ücretli "
+#~ "sürümünde/a> kullanılabilir."
+
+#~ msgid "<i class=\"fa fa-search\"></i> Summary"
+#~ msgstr "<i class=\"fa fa-search\"></i> Özet"
+
+#~ msgid "The page shows the total number of unlocks for the current locker."
+#~ msgstr "Bu sayfa, kaç kişinin kilidi açtığını gösteriyor."
+
+#~ msgid "<i class=\"fa fa-usd\"></i> Benefits"
+#~ msgstr "<i class=\"fa fa-usd\"></i> Faydalar"
+
+#~ msgid "The page shows benefits the locker brought for your website."
+#~ msgstr ""
+#~ "Bu sayfa, bu sınırlandırıcının sitenize getirdiği faydaları gösteriyor. "
+
+#~ msgid "<i class=\"fa fa-search-plus\"></i> Channels"
+#~ msgstr "<i class=\"fa fa-search-plus\"></i> Kanallar"
+
+#~ msgid "The page shows which ways visitors used to unlock the content."
+#~ msgstr ""
+#~ "Bu sayfa ziyaretçilerin hangi yollarla sınırlandırıcıları açtığını "
+#~ "gösteriyor."
+
+#~ msgid "<i class=\"fa fa-sign-out\"></i> Bounces"
+#~ msgstr "<i class=\"fa fa-sign-out\"></i> Çıkışlar"
+
+#~ msgid ""
+#~ "The page shows major weaknesses of the locker which lead to bounces. "
+#~ "Hover your mouse pointer on [?] in the table, to know more about a "
+#~ "particular metric."
+#~ msgstr ""
+#~ "Bu sayfa sınırlandırıcının; ziyaretçiyi hedefe gönderirken karşılaştığı "
+#~ "zayıf noktalarını gösterir. Mouse ile ? üzerine gelince, detayları "
+#~ "görebilirsiniz."
+
+#~ msgid ""
+#~ "The chart shows how many users skipped the locker by using the Timer or "
+#~ "Close Icon, comparing to the users who unlocked the content."
+#~ msgstr ""
+#~ "Bu grafik sınırlandırcıyı kaç kişinin zamanlayıcı ya da kapat butonu ile "
+#~ "kapattığını gösterir."
+
+#~ msgid "Quick Start Guide"
+#~ msgstr "Hızlı Başlama Rehberi"
+
+#~ msgid ""
+#~ "Using the Sign-In Locker is similar to using the Social Locker but it "
+#~ "require a bit more efforts for the initial configuration."
+#~ msgstr ""
+#~ "Sign-In Locker'ın kullanımı Sosyal Hasat'a benzerdir ancak biraz daha "
+#~ "fazla efor ister."
+
+#~ msgid ""
+#~ "Using the Sign-In Locker is similar to using the Email Locker but it "
+#~ "require a bit more efforts for the initial configuration."
+#~ msgstr ""
+#~ "Sign-In Locker'ın kullanımı Email Locker'a benzerdir ancak biraz daha "
+#~ "fazla efor ister."
+
+#~ msgid ""
+#~ "To pick out the content which should be locked, you can use special "
+#~ "shortcodes. During installation, the plugin created for you the shortcode "
+#~ "<span class=\"onp-mark onp-mark-gray onp-mark-stricked onp-code"
+#~ "\">[signinlocker][/signinlocker]</span> named <strong>Sign-In Locker</"
+#~ "strong>."
+#~ msgstr ""
+#~ "Kilitlenecek içeriğe seçmek için özel shortcode'lar kullanabilirsiniz. "
+#~ "Kurulum esnasında eklenti shortcode'u oluşturur: <span class=\"onp-mark "
+#~ "onp-mark-gray onp-mark-stricked onp-code\">[signinlocker][/signinlocker]</"
+#~ "span> : strong>Sign-In Locker</strong>."
+
+#~ msgid ""
+#~ "<strong>Note:</strong> You can create more shortcodes at any time for "
+#~ "whatever you need them for. For instance, you could create one for "
+#~ "locking video players or another one for locking download links."
+#~ msgstr ""
+#~ "<strong>Not:</strong>Dilediğiniz ve ihtiyacınız olduğu kadar shortcode "
+#~ "üretebilirsiniz. Örneğin video oynatımı için ve Sign-in Locker için "
+#~ "farklı shortcode'lar üretebilirsiniz."
+
+#~ msgid "Register social apps"
+#~ msgstr "Social Apps'e kaydol"
+
+#~ msgid ""
+#~ "Before you will be able to use the Sign-In Locker, you need to register a "
+#~ "set of social apps (API Keys, App IDs, Client IDs and so) for your "
+#~ "website."
+#~ msgstr ""
+#~ "Sign-In Locker'ı kullanmadan önce Social Apps'lere (Facebook, Twitter API "
+#~ "Keys, App ID, Client ID) kayıt olmanız gerekmektedir."
+
+#~ msgid "You need to make it only once."
+#~ msgstr "Bu işlem sadece bir kereye mahsustur."
+
+#~ msgid ""
+#~ "Then you will be able to use these apps with the Sign-In Locker and with "
+#~ "any other plugins."
+#~ msgstr ""
+#~ "Bu işlem ardından bu kodları Sign-In Locker ve diğer eklentiler için "
+#~ "kullanabilirsiniz."
+
+#~ msgid ""
+#~ "We recommend you to start using the Sign-In Locker with 3 buttons: "
+#~ "Facebook, Twitter and Google by skipping LinkedIn. You will be able to "
+#~ "configure LinkedIn later:"
+#~ msgstr ""
+#~ "Sign-In Locker'u Facebook, Twitter ve Google ile kullanmanızı öneriyoruz."
+
+#~ msgid "Button Name"
+#~ msgstr "Buton İsmi"
+
+#~ msgid "Your action to make it work"
+#~ msgstr "Çalışması için gerekli aksiyon"
+
+#~ msgid "Facebook Sign-In Button"
+#~ msgstr "Facebook ile Giriş Butonu"
+
+#~ msgid "Require creating a Facebook App"
+#~ msgstr "Facebook App oluşturulması gerekiyor."
+
+#~ msgid "Twitter Sign-In Button"
+#~ msgstr "Twitter ile Giriş Butonu"
+
+#~ msgid "Ready to use by default."
+#~ msgstr "Varsayılan olarak kullan"
+
+#~ msgid "Google Sign-In Button"
+#~ msgstr "Google ile Giriş Butonu"
+
+#~ msgid "Require getting Google Client ID"
+#~ msgstr "Google Client ID oluşturulması gerekmektedir."
+
+#~ msgid "LinkedIn Sign-In Button"
+#~ msgstr "Linkedin ile Giriş Butonu"
+
+#~ msgid "Require getting a LinkedIn API Key"
+#~ msgstr "Linkedin API Key oluşturulması gerekmektedir."
+
+#~ msgid ""
+#~ "Now when you have created apps for Facebook and Google, let's examine how "
+#~ "to use the default shortcode <strong>Sign-In Locker</strong>."
+#~ msgstr ""
+#~ "Gerekli konfigürasyonları tamamladığımız göre <strong>Sign-In Locker</"
+#~ "strong>'ı nasıl kullanacağımızı özetleyelim."
+
+#~ msgid "Open the editor"
+#~ msgstr "Editörü aç"
+
+#~ msgid ""
+#~ "In admin menu, select Opt-In Panda -> <a href=\"%s\">All Lockers</a>."
+#~ msgstr "Admin menüsünde Opt-In Panda -> <a href=\"%s\">Tüm Lockers</a>."
+
+#~ msgid ""
+#~ "Then click on the shortcode titled <strong>Sign-In Locker</strong> to "
+#~ "open its editor:"
+#~ msgstr ""
+#~ "Sonra <strong>Sign-In Locker</strong> shortcode'una tıkla ve editörü aç"
+
+#~ msgid "Configure the locker"
+#~ msgstr "Locker'ı konfigre et"
+
+#~ msgid ""
+#~ "Set a clear title that attracts attention or creates a call to action "
+#~ "(see the example below)."
+#~ msgstr ""
+#~ "İlgi çekici ya da dönüşüm odaklı bir başlık belirle. Örnekleri aşağıda "
+#~ "görebilirsin."
+
+#~ msgid ""
+#~ "Describe what the visitor will get after they unlock the content. This is "
+#~ "very important, as visitors need to be aware of what they are getting. "
+#~ "And please, only promise things you can deliver."
+#~ msgstr ""
+#~ "Ziyaretçiye kilidi açtıktan sonra ne göreceklerini söyle. Bu kısım çok "
+#~ "önemli çünkü ziyaretçiler bu konuda bilgili değiller. Lütfen yerine "
+#~ "getirebileceğin vaatler ver."
+
+#~ msgid "Choose one of the available themes for your locker."
+#~ msgstr "Uygun olan bir tema seç"
+
+#~ msgid ""
+#~ "Set the Overlay Mode. We recommend to use the Blurring Mode as the most "
+#~ "attention-grabbing mode."
+#~ msgstr ""
+#~ "Overlay Mode'u aktif et. Biz Blurring modu öneriyoruz çünkü en çok dönüş "
+#~ "bu şekilde geliyor."
+
+#~ msgid ""
+#~ "Make sure that the Facebook, Twitter and Google buttons are marked. That "
+#~ "makes available for the users to sign in through the respective social "
+#~ "networks."
+#~ msgstr ""
+#~ "Facebook, Twitter ve Google butonlarının seçili olduğuna emin ol. Bu "
+#~ "kullanıcıların giriş yapabilmelerini sağlayacak. "
+
+#~ msgid ""
+#~ "Select actions you would like to execute for each button when the user "
+#~ "clicks it to sign in."
+#~ msgstr ""
+#~ "Her buton için kullanıcı giriş işlemini tamamladıktan sonra oluşacak "
+#~ "aksiyonu belirle. "
+
+#~ msgid "Configure each action."
+#~ msgstr "Her adımı konfigüre et."
+
+#~ msgid ""
+#~ "Check out the image below to learn how to configure the buttons and their "
+#~ "actions:"
+#~ msgstr "Nasıl konfigüre edebileceğinizi merak ediyorsanız, görsele bakın:"
+
+#~ msgid "Congratulations! The locker is ready to use."
+#~ msgstr "Tebrikler! Sınırlandırıcı kullanıma hazır."
+
+#~ msgid ""
+#~ "The page <a href=\"%s\">Stats & Reports</a> will help you to correct your "
+#~ "locker after collecting the first statistical data."
+#~ msgstr ""
+#~ "<a href=\"%s\">Raporlar - İstatistikler</a> sayfası sınırlandırıcınızı "
+#~ "gelen datalar ile birlikte iyileştirmenizi sağlayacak."
+
+#~ msgid ""
+#~ "On the right sidebars, there are some additional options which can help "
+#~ "you to adjust the locker to your site audience. Try to use them by "
+#~ "yourself later."
+#~ msgstr ""
+#~ "Sağ sidebar'larda sınırlandırıcıyı düzenlemekle ilgili farklı seçenekler "
+#~ "de mevcut. "
+
+#~ msgid "Place the locker shortcode"
+#~ msgstr "Sınırlandırı shortcode'unu konumlandır."
+
+#~ msgid "Decide what content you would like to lock. It might be:"
+#~ msgstr "Hangi içeriği sınırlandıracağınıza karar verin. Örneğin: "
+
+#~ msgid ""
+#~ "A download link (for instance, a free graphic, an audio file, video "
+#~ "resources, or a printable pdf of your article)."
+#~ msgstr ""
+#~ "İndirme linki (örneğin: ücretsiz grafik, ses dosyası, video kaynakları, "
+#~ "PDF dosyası ... )"
+
+#~ msgid ""
+#~ "A promo code (for instance, a 10% off discount, if the visitor shares "
+#~ "your promo page)."
+#~ msgstr "İndirim kodu (örneğin: ziyaretçi paylaşım yaparsa 10 indirim kodu)."
+
+#~ msgid ""
+#~ "The end of your article (for instance, you might show the beginning of "
+#~ "the article to gain interest, but hide the ending)."
+#~ msgstr ""
+#~ "İçeriğinizin kilit noktası ya da sonu (örneğin: içeriğin başlarını "
+#~ "gösterip, sonrasında kilit noktasını sınırlandırabilirsiniz.)"
+
+#~ msgid ""
+#~ "Basically, you can hide any content that would be important for visitors "
+#~ "who are visiting your site."
+#~ msgstr ""
+#~ "Ziyaretçilerin için en can alıcı noktaları sınırlandırmak harika dönüşler "
+#~ "getirecektir."
+
+#~ msgid "However, <strong>you should never</strong>:"
+#~ msgstr "Tavsiyemiz, <strong>asla</strong>:"
+
+#~ msgid "Lock all of your content, posts or pages."
+#~ msgstr "Tüm içeriğinizi kilitlemeyin."
+
+#~ msgid "Lock boring content or content that is not interesting."
+#~ msgstr "Sıradan içerikleri kilitlemeyin."
+
+#~ msgid "In other words, do not try to trick your visitors."
+#~ msgstr ""
+#~ "Daha açık bir söylemle; ziyaretçileri tuzağa düşürmeye çalışmayın. Fayda "
+#~ "sağlayın!"
+
+#~ msgid ""
+#~ "Open the post editor for the post where you want to put the locker. Wrap "
+#~ "the content you want to lock within the locker shortcode. For example: "
+#~ "<span class=\"onp-mark onp-mark-gray onp-mark-stricked onp-code"
+#~ "\">[signinlocker] Locked Content Goes Here [/signinlocker]</span>:"
+#~ msgstr ""
+#~ "Sınırlandırıcı uygulamak istediğiniz yazı ya da sayfaya gidin. İçeriğin "
+#~ "sınırlandırmak istediğiniz bölümünü (video, indirme linki, anahtar nokta "
+#~ "vs.) sınırlandırıcı shortcode'u arasına alın. Örnek kullanım: "
+#~ "[signinlocker] İndirmek Linki Buraya Gelebilir. [/signinlocker]"
+
+#~ msgid "That's it! Save your post and see the locker on your site! "
+#~ msgstr "Bu kadar! İçeriği kaydet ve sınırlandırıcı sitende gör!"
+
+#~ msgid ""
+#~ "Sign-In Locker works the same way as the <a href=\"%s\">Social Locker</a> "
+#~ "but instead of liking/sharing it asks the user to sign in through social "
+#~ "networks. Concurrently it can perform some social actions."
+#~ msgstr ""
+#~ "Sign-In Sınırlandırıcısı <a href=\"%s\">Sosyal Sınırlandırıcı</a> ile "
+#~ "aynı mantıkt çalışır ancak kullanıcılardan beğenmek ya da paylaşmak "
+#~ "yerine sosyal ağlar ile giriş yapmasını ister. "
+
+#~ msgid ""
+#~ "Sign-In Locker works the same way as the <a href=\"%s\">Email Locker</a> "
+#~ "but instead of entering an email it asks the user to sign in through "
+#~ "social networks. Concurrently it can perform some social actions."
+#~ msgstr ""
+#~ "Sign-In Sınırlandırıcısı <a href=\"%s\">E-mail Sınırlandırıcı</a> ile "
+#~ "aynı mantıkt çalışır ancak kullanıcılardan beğenmek ya da paylaşmak "
+#~ "yerine sosyal ağlar ile giriş yapmasını ister. "
+
+#~ msgid "What can you do with the Sign-In Locker"
+#~ msgstr "Sign-In Sınırlandırıcısı ile neler yapabilirsiniz?"
+
+#~ msgid ""
+#~ "When the user signs in, the social network grants access to the user's "
+#~ "contact data and allow additionally perform the following actions:"
+#~ msgstr ""
+#~ "User sosyal ağlar ile sitenize giriş yaptığında; aşağıdaki işlemler "
+#~ "gerçekleşebilir:"
+
+#~ msgid "Register the user on our website (create an account)"
+#~ msgstr "Websitenize kaydolmuş olur"
+
+#~ msgid ""
+#~ "Subscribe the user to your mailing list (<a href=\"%s\" target=\"_blank"
+#~ "\">Opt-In Panda</a> required)"
+#~ msgstr ""
+#~ "Mailing Listenize kaydolmuş olur.  (Bunun için <a href=\"%s\" target="
+#~ "\"_blank\">Opt-In Panda</a> gereklidir.)"
+
+#~ msgid "Subscribe the user to your mailing list."
+#~ msgstr "Mailing listenize kaydolur."
+
+#~ msgid ""
+#~ "Publish a tweet from behalf of the user (<a href=\"%s\" target=\"_blank"
+#~ "\">Social Locker</a> required)"
+#~ msgstr "Üyenizin Twitter hesabından Twit yayınlayabilirsiniz."
+
+#~ msgid ""
+#~ "Subscribe the user to your account on Twitter (<a href=\"%s\" target="
+#~ "\"_blank\">Social Locker</a> required)"
+#~ msgstr "Twitter'daki hesabınıza takipçi olur."
+
+#~ msgid ""
+#~ "Subscribe the user to your account on LinkedIn (<a href=\"%s\" target="
+#~ "\"_blank\">Social Locker</a> required)"
+#~ msgstr "Linkedin'deki hesabınıza takipçi olur. "
+
+#~ msgid ""
+#~ "Subscribe the user to your Youtube channel (<a href=\"%s\" target=\"_blank"
+#~ "\">Social Locker</a> required)"
+#~ msgstr "Youtube kanalınıza abone olur. "
+
+#~ msgid "Publish a tweet from behalf of the user"
+#~ msgstr "Üyenizin Twitter hesabından Twit yayınlayabilirsiniz."
+
+#~ msgid ""
+#~ "Subscribe the user to your account on Twitter (make the user a follower)"
+#~ msgstr "Twitter'daki hesabınıza takipçi olur."
+
+#~ msgid ""
+#~ "Subscribe the user to your account on LinkedIn (make the user a follower)"
+#~ msgstr "Linkedin'deki hesabınıza takipçi olur. "
+
+#~ msgid "Subscribe the user to your Youtube channel"
+#~ msgstr "Youtube kanalınıza abone olur. "
+
+#~ msgid "Know your audience"
+#~ msgstr "Kitlenizi tanımış olursunuz."
+
+#~ msgid ""
+#~ "Except the user's contact data, the Sign-In Locker also receives some "
+#~ "personal data (name, profile url)."
+#~ msgstr ""
+#~ "Kullanıcının iletişim bilgileri dışında, Sign-in Sınırlandırıcısı bazı "
+#~ "kişisel bilgileri de kaydeder. "
+
+#~ msgid ""
+#~ "That allows you to know better your audinece and understand who is these "
+#~ "people who visits your website. Also you can go and engage with them "
+#~ "personally on their social pages on Facebook, Twitter, Google or LinkedIn."
+#~ msgstr ""
+#~ "Bu sizin kitlenizi daha iyi tanımanıza yardımcı olur. Ayrıca onlarla "
+#~ "Facebook, Twitter ya da Linkedin üzerinden direkt etkileşim "
+#~ "kurabilirsiniz."
+
+#~ msgid "Comparing Sign-In Locker and Social Locker"
+#~ msgstr "Sign-In Sınırlandırıcı ve Sosyal Sınırlandırıcı Karşılaştırma"
+
+#~ msgid ""
+#~ "Although the Sign-In Locker brings more benefits per unlock, it has more "
+#~ "lower conversion than Social Locker. Please check out the table below to "
+#~ "learn more:"
+#~ msgstr ""
+#~ "Sign-In Sınırlandırıcı, sınırlandırmayı açma başına daha çok fayda "
+#~ "getirse de Sosyal Sınırlandırıcıya göre dönüşüm oranı daha düşük. Lütfen "
+#~ "aşağıdaki tabloyu detaylı inceleyin."
+
+#~ msgid "Benefits"
+#~ msgstr "Faydalar"
+
+#~ msgid ""
+#~ "More benefits per unlock. Can be configured to execute several actions "
+#~ "per unlock."
+#~ msgstr "Kullanıcı aksiyon başına daha fazla fayda. "
+
+#~ msgid "Only one action has to be perfomed to unlock the content."
+#~ msgstr "Kullanıcının içeriği görebilmesi için tek bir aksiyon yeterlidir."
+
+#~ msgid "Conversion"
+#~ msgstr "Dönüşüm"
+
+#~ msgid ""
+#~ "More lower conversion due to the locker asks the user to authorize your "
+#~ "social app and grant extra permissions."
+#~ msgstr ""
+#~ "Daha düşük dönüşüm oranı çünkü kullanıcı sosyal hesabından izin ve onay "
+#~ "vermek durumundadır."
+
+#~ msgid ""
+#~ "Extremely high conversion which may reach up to 50%. All what the user "
+#~ "has to make is to click on the social button."
+#~ msgstr ""
+#~ "%50'den daha yüksek dönüşüm. Kullanıcının sadece butona tıklaması yeterli."
+
+#~ msgid "Content"
+#~ msgstr "İçerik"
+
+#~ msgid ""
+#~ "As asks the user to authorize your social app to read one's personal "
+#~ "data, the content you provide should have more value."
+#~ msgstr ""
+#~ "Kullanıcıya sosyal hesaplarıyla giriş yapmasını sorabilmek için "
+#~ "içeriğiniz ya da sunduğunuz faydanın çok üst düzeyde olması gerekiyor."
+
+#~ msgid "You can lock practically any content. Giving a like is not hard."
+#~ msgstr ""
+#~ "Herhangi bir içeriği sınırlandırabilirsiniz. Butona basmak ve \"Beğen\" "
+#~ "yapmak çok zor değil."
+
+#~ msgid "Comparing Sign-In Locker and Email Locker"
+#~ msgstr "Sign-In Sınırlandırıcı ve Email Sınırlandırıcı Karşılaştırma"
+
+#~ msgid ""
+#~ "Although the Sign-In Locker brings more benefits per unlock, it has more "
+#~ "lower conversion than Email Locker. Please check out the table below to "
+#~ "learn more:"
+#~ msgstr ""
+#~ "Sign-In Sınırlandırıcı, sınırlandırmayı açma başına daha çok fayda "
+#~ "getirse de E-mail Sınırlandırıcıya göre dönüşüm oranı daha düşük. Lütfen "
+#~ "aşağıdaki tabloyu detaylı inceleyin."
+
+#~ msgid "The user has to opt-in only to unlock the content."
+#~ msgstr "Kullanıcının listeye kaydolması gerekiyor. "
+
+#~ msgid "High conversion which may reach up to 40%."
+#~ msgstr "%40'dan daha yüksek dönüşüm. "
+
+#~ msgid "You can lock practically any content."
+#~ msgstr ""
+#~ "Herhangi bir içeriği sınırlandırabilirsiniz. Butona basmak ve \"Beğen\" "
+#~ "yapmak çok zor değil."
+
+#~ msgid "Learn how to configure and use Sign-In Locker"
+#~ msgstr "Sign-In Sınırlandırıcı'yı nasıl kullanacağınızı öğrenin"
+
+#~ msgid "Connect Options"
+#~ msgstr "Bağlanma Seçenekleri"
+
+#~ msgid "How to setup"
+#~ msgstr "Nasıl kurulu"
+
+#~ msgid "Select social networks which will be available to sign in."
+#~ msgstr "Aktif etmek istediğiniz sosyal ağları seçin"
+
+#~ msgid ""
+#~ "For each social network, select actions which have to be performed to "
+#~ "sign in."
+#~ msgstr "Her sosyal ağda; giriş yapmak için gerekli aksiyonları seçin"
+
+#~ msgid "Configure each selected action by clicking on its title."
+#~ msgstr "Tüm aksiyonları başlıklarına tıklayarak konfigüre edin"
+
+#~ msgid "Action: Save Email"
+#~ msgstr "Aksiyon: E-mail kaydetme"
+
+#~ msgid ""
+#~ "This action retrieves an email and some other personal data of the user "
+#~ "and saves it in the database."
+#~ msgstr ""
+#~ "Kullanıcının e-mail ve bazı kişisel bilgileri alır ve database'inize "
+#~ "kaydeder."
+
+#~ msgid "Action: Subscribe"
+#~ msgstr "Aksiyon: Abone ol"
+
+#~ msgid ""
+#~ "This action allows to subscribe the user to the specified mailing list "
+#~ "when one clicks on the Sign In button."
+#~ msgstr "Kullanıcıyı mail listenize abone yapar."
+
+#~ msgid "List"
+#~ msgstr "Liste"
+
+#~ msgid "Specify the list ID to add subscribers."
+#~ msgstr "Abone eklemek için List ID belirleyin."
+
+#~ msgid "- empty -"
+#~ msgstr "- boş - "
+
+#~ msgid "Select the list to add subscribers."
+#~ msgstr "Aboneler eklemek için liste seçin"
+
+#~ msgid "Opt-In Mode"
+#~ msgstr "Opt-In Modu"
+
+#~ msgid "Require Name"
+#~ msgstr "İsim alanını gerekli hale getir"
+
+#~ msgid "Before Form"
+#~ msgstr "Form Öncesi"
+
+#~ msgid "The text before the form."
+#~ msgstr "Form öncesi metin"
+
+#~ msgid "Cannot sign in via social networks? Enter your email manually."
+#~ msgstr ""
+#~ "Sosyal ağlarla giriş yapamadınız mı? E-mail adresinizi manuel olarak "
+#~ "girin."
+
+#~ msgid "The text on the button."
+#~ msgstr "Buton üstündeki metin"
+
+#~ msgid "sign in to unlock"
+#~ msgstr "Görmek için giriş yapın"
+
+#~ msgid "Action: Create Account"
+#~ msgstr "Aksiyon: Üye ol"
+
+#~ msgid ""
+#~ "This action registers the user on your website (the password will be "
+#~ "generated randomly)."
+#~ msgstr ""
+#~ "Kullanıcının siteniye üye olmasını sağlar. (Şifre otomatik olarak "
+#~ "belirlenecektir.)"
+
+#~ msgid ""
+#~ "The account will be created but the user will not be logged in. The user "
+#~ "will have to log in manually by using the login details sent via email. "
+#~ "The locked content will get available instantly after clicking on the "
+#~ "Sign-In buttons."
+#~ msgstr ""
+#~ "Üyelik kendiliğinden oluşturulacak ancak kullanıcı girişi otomatik "
+#~ "yapılmayacaktır. Kullanıcı e-mail adresine gönderilen bilgileri kendisi "
+#~ "giriş yapmalıdır. Ancak içerik kullanıcı giriş yapmasına gerek olmadan, "
+#~ "butona bastığında anında açılacaktır."
+
+#~ msgid "Login Mode"
+#~ msgstr "Giriş Yap Modu"
+
+#~ msgid "Twitter Action: Follow"
+#~ msgstr "Twitter Aksiyonu: Takip Et"
+
+#~ msgid ""
+#~ "This action makes the user following you on Twitter after clicking the "
+#~ "Sign In button."
+#~ msgstr ""
+#~ "Kullanıcının butona tıklamasının ardından otomatik olarak Twitter'da sizi "
+#~ "takip etmesini sağlar."
+
+#~ msgid "User to follow"
+#~ msgstr "Takip edilecek kullanıcı"
+
+#~ msgid ""
+#~ "Set a user screen name to follow (for example, <a href=\"http://twitter."
+#~ "com/byonepress\" target=\"_blank\">byonepress</a>)"
+#~ msgstr "Takip edilecek kulanıcı adı belirle"
+
+#~ msgid "Notifications"
+#~ msgstr "Bildirimler"
+
+#~ msgid ""
+#~ "If On, the follower will get notifications about new tweets (usually via "
+#~ "sms)."
+#~ msgstr "Özelliği açıksa, kullancı yeni twitler hakkında bildirim alacak."
+
+#~ msgid "Twitter Action: Tweet"
+#~ msgstr "Twitter Aksiyonu: Twit At"
+
+#~ msgid ""
+#~ "Sends the specified tweet below from behalf of the user after signing in."
+#~ msgstr ""
+#~ "Giriş sonrası, kullanıcının hesabından otomatik olarak twit atılmasını "
+#~ "sağlar."
+
+#~ msgid "Tweet"
+#~ msgstr "Twit"
+
+#~ msgid "Type a message to tweet. It may include any URL."
+#~ msgstr "Twit atılacak iletiyi gir. URL barındırabilir."
+
+#~ msgid "Google Action: Subscribe To Youtube Channel"
+#~ msgstr "Google Aksiyonu: Youtube kanalına abone ol."
+
+#~ msgid "This action subscribers the user to the specified Youtube channel."
+#~ msgstr "Kullanıcı belirlemiş olduğunuz Youtube kanalına abone olur. "
+
+#~ msgid "Youtube Channel ID"
+#~ msgstr "Youtube Kanal ID"
+
+#~ msgid ""
+#~ "Set a channel ID to subscribe (for example, <a href=\"http://www.youtube."
+#~ "com/channel/UCANLZYMidaCbLQFWXBC95Jg\" target=\"_blank"
+#~ "\">UCANLZYMidaCbLQFWXBC95Jg</a>)."
+#~ msgstr "Kanal ID'nizi belirleyin."
+
+#~ msgid "LinkedIn Action: Follow"
+#~ msgstr "Linkedin Aksiyonu: Takip et"
+
+#~ msgid "This action subscribers the user to the specified company page."
+#~ msgstr ""
+#~ "Bu aksiyon kullanıcının belirlenmiş Linkedin Şirket Sayfasını takip "
+#~ "etmesini sağlar."
+
+#~ msgid ""
+#~ "Set a company ID or name to follow (for example, <a href=\"https://www."
+#~ "linkedin.com/company/1441\" target=\"_blank\">1441</a> or <a href="
+#~ "\"https://www.linkedin.com/company/google\" target=\"_blank\">google</a>)."
+#~ msgstr "Linkedin Şirket ID'sini girin"
+
+#~ msgid "How to use"
+#~ msgstr "Nasıl kullanılır"
+
+#~ msgid ""
+#~ "<a href=\"%s\" class=\"button\" target=\"_blank\">See emails</a> of users "
+#~ "who already signed-up or <a href=\"%s\" class=\"button\" target=\"_blank"
+#~ "\">export emails</a> in the CSV format."
+#~ msgstr ""
+#~ "Kayıt olmuş kullanıcıların <a href=\"%s\" class=\"button\" target=\"_blank"
+#~ "\">E-mail adreslerini gör</a>   ya da CSV (Excel) formatında <a href=\"%s"
+#~ "\" class=\"button\" target=\"_blank\">dışa aktar.</a>"
+
+#~ msgid ""
+#~ "Install the plugin <a href=\"%s\" target=\"_blank\">Opt-In Panda</a> to "
+#~ "subscribe automatically all the signed-up users to your mailing list. "
+#~ "Supports most of services and plugins: Aweber, MailChimp, GetResponse, "
+#~ "MyMail, MailPoet, K-news and more."
+#~ msgstr ""
+#~ "Tüm giriş yapan kullanıcıları mail listelerine kaydetmek için <a href=\"%s"
+#~ "\" target=\"_blank\">Opt-In Panda</a> eklentisi yükleyin. Aweber, "
+#~ "MailChimp, GetResponse, MyMail, MailPoet, K-news ve daha bir çok servisi "
+#~ "destekler."
+
+#~ msgid "New User Role"
+#~ msgstr "Yeni Kullanıcı Rolü"
+
+#~ msgid ""
+#~ "All new users will be assigned to the role <strong>%s</strong> (<a href="
+#~ "\"%s\" target=\"_blank\">change</a>)."
+#~ msgstr ""
+#~ "Tüm kullanıcılar bu rolde kaydolacaktır: <strong>%s</strong> (<a href=\"%s"
+#~ "\" target=\"_blank\">değiştir</a>)."
+
+#~ msgid "Welcome E-mail"
+#~ msgstr "Hoşgeldin E-maili"
+
+#~ msgid ""
+#~ "By default new users receive the standard wordpress welcome message. You "
+#~ "can change it if you want.<br /><a href=\"https://wordpress.org/plugins/"
+#~ "search.php?q=Welcome+Email\" target=\"_blank\">Click here</a> to select a "
+#~ "free plugin to customize the welcome email."
+#~ msgstr ""
+#~ "Kayıt olan kullanıcılar Wordpress'in standart hoşgeldin e-mailini "
+#~ "alacaktır. Dilerseniz bunu ücretsiz bir eklentiyle değiştirebilirsiniz. "
+#~ "<strong>%s</strong> (<a href=\"%s\" target=\"_blank\">Buradan</a>) "
+#~ "ücretsiz bir eklenti araştırın."
+
+#~ msgid "Save Email"
+#~ msgstr "E-maili kaydet"
+
+#~ msgid "Subscribe"
+#~ msgstr "Abone ol"
+
+#~ msgid "Create Account"
+#~ msgstr "Hesap oluştur"
+
+#~ msgid "Follow"
+#~ msgstr "Takip et"
+
+#~ msgid "Subscribe (YT)"
+#~ msgstr "Abone ol (Youtube)"
+
+#~ msgid "Email Form"
+#~ msgstr "E-mail formu"
+
+#~ msgid ""
+#~ "To enable this action, please install the plugin Opt-In Panda which "
+#~ "provides subscription features. <a href=\"%s\" target=\"_blank\">Click "
+#~ "here to learn more</a>."
+#~ msgstr ""
+#~ "Bu özelliği aktif etmek için lütfen Opt-In Panda eklentisini kurun. a "
+#~ "href=\"%s\" target=\"_blank\">Buradan detayları öğrenebilirsiniz</a>."
+
+#~ msgid ""
+#~ "To enable this action, please install the Social Locker plugin which "
+#~ "provides social features. <a href=\"%s\" target=\"_blank\">Click here to "
+#~ "learn more</a>."
+#~ msgstr ""
+#~ "Bu özelliği aktif etmek için lütfen Opt-In Panda eklentisini kurun. a "
+#~ "href=\"%s\" target=\"_blank\">Buradan detayları öğrenebilirsiniz</a>."
+
+#~ msgid ""
+#~ "You need to register a Facebook App for your website. Please <a href=\"%s"
+#~ "\" target=\"_blank\">click here</a> to learn more."
+#~ msgstr ""
+#~ "Siteniz için Facebook App kaydetmeniz gerekmektedir. <a href=\"%s\" "
+#~ "target=\"_blank\">Buradan</a> detaylı bilgi alın."
+
+#~ msgid ""
+#~ "Please set the Key & Secret of your Twitter App or select the default "
+#~ "app. Please <a href=\"%s\" target=\"_blank\">click here</a> to learn more."
+#~ msgstr ""
+#~ "Twitter App için Key & Secret belirlemeniz gerekiyor. <a href=\"%s\" "
+#~ "target=\"_blank\">Buradan</a> detaylı bilgi alın."
+
+#~ msgid ""
+#~ "You need to get a Google Client ID for your website. Please <a href=\"%s"
+#~ "\" target=\"_blank\">click here</a> to learn more."
+#~ msgstr ""
+#~ "Öncelikle Google Client ID almanız gerekiyor. <a href=\"%s\" target="
+#~ "\"_blank\">Buradan</a> detaylı bilgi alın."
+
+#~ msgid ""
+#~ "You need to get a LinkedIn API Key for your website. Please <a href=\"%s"
+#~ "\" target=\"_blank\">click here</a> to learn more."
+#~ msgstr ""
+#~ "Öncelikle websiteniz için Linkedin API key oluşturmanız & almanız "
+#~ "gerekiyor. <a href=\"%s\" target=\"_blank\">Buradan</a> detaylı bilgi "
+#~ "alın."
+
+#~ msgid ""
+#~ "The emails will be saved in the <a href=\"%s\" target=\"_blank\">local "
+#~ "database</a> because you haven't selected a mailing service"
+#~ msgstr ""
+#~ "E-mail adresleri <a href=\"%s\" target=\"_blank\">yerel database</a>'e "
+#~ "kaydedilecektir. Çünkü hiç bir e-mailing servisi seçmediniz."
+
+#~ msgid "You selected <strong>%s</strong> as your mailing service"
+#~ msgstr "<strong>%s</strong> servisini; e-mail servisi olarak seçtiniz."
+
+#~ msgid "change"
+#~ msgstr "değiştir"
+
+#~ msgid "You Use Only 30% of Social Locker!"
+#~ msgstr "Sosyal Hasat'ın sadece 30%'unu kullanıyorsunuz."
+
+#~ msgid "More Sign-In Options (+2)"
+#~ msgstr "Daha Fazla Giriş Yap Seçeneği (+2)"
+
+#~ msgid "More Beautiful Themes (+2)"
+#~ msgstr "Daha Güzel Tasarımlar (+2)"
+
+#~ msgid "Premium Support"
+#~ msgstr "Premium Destek"
+
+#~ msgid "Post Title"
+#~ msgstr "Post Başlığı"
+
+#~ msgid "Impressions"
+#~ msgstr "Gösterimler"
+
+#~ msgid "Visitors Who"
+#~ msgstr "Ziyaretçiler Kim?"
+
+#~ msgid "Faced Errors"
+#~ msgstr "Karşılaşılmış Sorunlar"
+
+#~ msgid ""
+#~ "Visitors who faced with any errors and were not able to unlock the "
+#~ "content. This value normally should be equal 0. If not, please check "
+#~ "settings of your locker or contact OnePress support."
+#~ msgstr ""
+#~ "Sorun ile karşılaşıp, içeriği açamayan kullanıcılar. Normal şartlarda bu "
+#~ "değerin 0 olması gerekiyor. Lütfen ayarlarınızı kontrol edin ya da destek "
+#~ "ekibiyle iletişime geçin. "
+
+#~ msgid "Declined Social Apps"
+#~ msgstr "Rededilen Social Apps"
+
+#~ msgid ""
+#~ "Visitors who refused to authorize of your social apps. If you think this "
+#~ "value is too large, try to set less social actions to be performed on "
+#~ "signing in through social networks."
+#~ msgstr ""
+#~ "Social apps'te yetki vermeyi red eden kullanıcılar. Bu rakamın yüksek "
+#~ "olduğunu düşünüyorsanız daha az sosyal aksiyon kurgulayın."
+
+#~ msgid "Date"
+#~ msgstr "Tarih:"
+
+#~ msgid "Who Faced Errors"
+#~ msgstr "Sorunla karşılaşanlar"
+
+#~ msgid "Who Declined Social Apps"
+#~ msgstr "Social Apps'leri Red Edenler"
+
+#~ msgid "Number of Unlocks"
+#~ msgstr "Sınırlandırıcı Açma Sayısı"
+
+#~ msgid "The number of unlocks made by visitors."
+#~ msgstr "Kullanıcılar tarafından Sınırlandırıcı açma sayısı"
+
+#~ msgid "Via Opt-In Form"
+#~ msgstr "Opt-In Form ile"
+
+#~ msgid "Via Facebook"
+#~ msgstr "Facebook ile"
+
+#~ msgid "Via Twitter"
+#~ msgstr "Twitter ile"
+
+#~ msgid "Via Google"
+#~ msgstr "Google ile"
+
+#~ msgid "Via LinkedIn"
+#~ msgstr "LinkedIn ile "
+
+#~ msgid "Unlocks"
+#~ msgstr "Sınırlandırıcı Açmaları"
+
+#~ msgid "Emails"
+#~ msgstr "E-mailler"
+
+#~ msgid ""
+#~ "The number of new emails added to the database. If the email exists in "
+#~ "the database, this email will not be counted."
+#~ msgstr ""
+#~ "Database'e eklenen yeni e-mail adresleri. Eğer e-mail database'de "
+#~ "kayıtlıysa sayılmamaktadır."
+
+#~ msgid "Accounts"
+#~ msgstr "Hesaplar"
+
+#~ msgid "The number of new accounts created for visitors."
+#~ msgstr "Kullanıcılar tarafından açılmış yeni hesaplar"
+
+#~ msgid "Twitter Followers"
+#~ msgstr "Twitter Takipçileri"
+
+#~ msgid ""
+#~ "The number of new followers attracted via the locker. If the user was a "
+#~ "follower before, this user will not be counted."
+#~ msgstr ""
+#~ "Yeni gelen Twitter takipçileri. Kullanıcı daha önceden takipçiyse burada "
+#~ "sayılmamaktadır."
+
+#~ msgid "Tweets"
+#~ msgstr "Twit'ler"
+
+#~ msgid "The number of new tweets posted via the locker."
+#~ msgstr "Sosyal Hasat aracılığıyla ile atılmış olan yeni Twit'ler."
+
+#~ msgid "Youtube Subscribers"
+#~ msgstr "Youtube Aboneler"
+
+#~ msgid ""
+#~ "The number of new subscribers attracted via the locker. If the user was a "
+#~ "subscribers before, this user will not be counted."
+#~ msgstr ""
+#~ "Sosyal Hasat aracılığıyla gelmiş yeni Youtube aboneleri. Kullanıcı daha "
+#~ "önceden aboneyse burada sayılmamaktadır."
+
+#~ msgid "LinkedIn Followers"
+#~ msgstr "LinkedIn Takipçileri"
+
+#~ msgid "Twitter Tweets"
+#~ msgstr "Twitter Twit'leri"
+
+#~ msgid "Skipped by Timer"
+#~ msgstr "Timer ile atlamış olanlar"
+
+#~ msgid "Skipped by Close Icon"
+#~ msgstr "Kapat butonu ile atlamış olanlar"
+
+#~ msgid "The ratio of the number of unlocks to impressions, in percentage."
+#~ msgstr "Sınırlandırma açmalarının gösterime oranı yüzde olarak."
+
+#~ msgid ""
+#~ "<p>Locks the content until the user signs in through social networks.</"
+#~ "p><p>You can set up various actions to be performed to sign in (e.g. "
+#~ "subscribe, follow, share).</p>"
+#~ msgstr ""
+#~ "<p>İçeriği kullanıcı giriş yapana kadar sınırlandırır. </p><p>Giriş ile "
+#~ "bağlantılı birden fazla aksiyon tanımlayabilirsiniz. (Takip et, beğen, "
+#~ "paylaş.)</p>"
+
+#~ msgid ""
+#~ "<p>Locks the content until the user signs in through social networks.</"
+#~ "p><p>You can set up various social actions to be performed to sign in (e."
+#~ "g. subscribe, follow, share).</p>"
+#~ msgstr ""
+#~ "<p>İçeriği kullanıcı giriş yapana kadar sınırlandırır. </p><p>Giriş ile "
+#~ "bağlantılı birden fazla aksiyon tanımlayabilirsiniz. (Takip et, beğen, "
+#~ "paylaş.)</p>"
+
+#~ msgid "Social Locker (default)"
+#~ msgstr "Sosyal Hasat (varsayılan)"
+
+#~ msgid "This content is locked"
+#~ msgstr "Bu içerik sınırlandırılmıştır."
+
+#~ msgid "<i class=\"fa fa-search-plus\"></i> Detailed"
+#~ msgstr "<i class=\"fa fa-search-plus\"></i> Detaylı"
+
+#~ msgid "This restriction doesn't affect on:</strong>"
+#~ msgstr "Bu kısıtlama aşağıdaki durumları etkilemiyor:"
+
+#~ msgid ""
+#~ "Facebook Sign-In and Subscribe buttons (which ask to sign in to a "
+#~ "Facebook app)."
+#~ msgstr "Facebook Giriş ya da Abone ol butonları"
+
+#~ msgid "Other social networks (Twitter, Google, LinkedIn)."
+#~ msgstr "Diğer sosyal ağlar (Twitter, Google, LinkedIn)."
+
+#~ msgid ""
+#~ "Technically <strong>you can ignore this restriction, the Social Locker "
+#~ "will continue working without any problems</strong>. Also you can just "
+#~ "update a bit the settings of your lockers to make it compatible with the "
+#~ "new policy."
+#~ msgstr ""
+#~ "Teknik olarak bu kısıtlamayı görmezden gelebilirsiniz. Sosyal Hasat "
+#~ "sorunsuz bir şekilde çalışmaya devam edecek. Ayrıca ayarları ve kullanım "
+#~ "seçeneklerinizi geliştirerek; bu yeni şartlara uyum sağlayabilirsiniz."
+
+#~ msgid ""
+#~ "You can pick the content you want to lock by using special shortcodes. "
+#~ "During installation, the plugin created for you the shortcode <span class="
+#~ "\"onp-mark onp-mark-gray onp-mark-stricked onp-code\">[sociallocker][/"
+#~ "sociallocker]</span> named <strong>Social Locker</strong>."
+#~ msgstr ""
+#~ "Sınırlandırmak istediğiniz içeriği özel shortcode'lar ile "
+#~ "belirleyebilirsiniz. Kurulum esnasında Sosyal Hasat sizler için bu "
+#~ "shortcode'u oluşturdu: <span class=\"onp-mark onp-mark-gray onp-mark-"
+#~ "stricked onp-code\">[sociallocker][/sociallocker]</span>"
+
+#~ msgid ""
+#~ "Let's examine how to use the default shortcode <strong>Social Locker</"
+#~ "strong>."
+#~ msgstr "Sosyal Hasat'ın varsayılan shortcode'unu nasıl kullanabiliriz?"
+
+#~ msgid ""
+#~ "In admin menu, select Social Locker -> <a href=\"%s\">All Lockers</a>."
+#~ msgstr ""
+#~ "Wordpress admin menüsünde; Sosyal Hasat > <a href=\"%s\">Tüm "
+#~ "Sınırlandırıcılar</a>"
+
+#~ msgid "Click on the shortcode titled \"Social Locker\" to open the editor:"
+#~ msgstr "\"Social Locker\" adındaki shortcode'a tıklayın ve editör açılsın."
+
+#~ msgid ""
+#~ "Select social buttons that will be available for visitors and configure "
+#~ "every selected button."
+#~ msgstr ""
+#~ "Aktif olacak sosyal paylaşım butonlarını seçin ve her birini konfigüre "
+#~ "edin."
+
+#~ msgid ""
+#~ "In other words, don not try to trick your visitors. If you do, people "
+#~ "will become annoyed and will remove the likes/tweets/+1s after unlocking "
+#~ "your content, which will not have the desired result."
+#~ msgstr ""
+#~ "Ziyaretçilerinizi aldatmayın, onlara fayda sağlayın. Unutmayın kolaylıkla "
+#~ "verdikleri beğenileri ve attıkları twit'leri silebilirler. "
+
+#~ msgid "Open the post editor for the post where you want to put the locker."
+#~ msgstr ""
+#~ "Sınırlandırıcıyı koymak istediğiniz içeriği wordpress editörde açın."
+
+#~ msgid ""
+#~ "Then wrap the content you want to lock within the locker shortcode. For "
+#~ "instance: <span class=\"onp-mark onp-mark-gray onp-mark-stricked onp-code"
+#~ "\">[sociallocker] Locked Content Goes Here [/sociallocker]</span>:"
+#~ msgstr ""
+#~ "Sonrasında içeriği sınırlandırıcı shortcodeları arasına alın. Örneğin: "
+#~ "<span class=\"onp-mark onp-mark-gray onp-mark-stricked onp-code"
+#~ "\">[sociallocker] Sınırlandırılmış içerik buraya gelmeli. [/"
+#~ "sociallocker]</span>"
+
+#~ msgid "That's it! Save your post and see it on your site! "
+#~ msgstr "Bu kadar! Kaydedin ve sitenizde gözlemleyin!"
+
+#~ msgid ""
+#~ "Social Locker hides some piece of value content on your website and ask "
+#~ "the user to like or share (in other words, \"pay with a like\", \"pay "
+#~ "with a tweet\" and so on) to get instant access to your content."
+#~ msgstr ""
+#~ "Sosyal Hasat içeriğinizin bir kısmını sınırlandırır ve ziyaretçilerden o "
+#~ "kısma erişmesi için beğeni ya da paylaşım yapmasını ister. Dünya'da bu  "
+#~ "\"pay with a like\",  \"pay with a tweet\" şeklinde isimlendirilir. (Twit "
+#~ "ile öde, Beğeni ile öde)"
+
+#~ msgid "Social Locker gives you the following benefits:"
+#~ msgstr "Sosyal Hasat size şu faydaları sağlar:"
+
+#~ msgid "1. More Social Traffic"
+#~ msgstr "1. Daha fazla sosyal trafik"
+
+#~ msgid ""
+#~ "Social Locker will add systematically viral traffic to your website, your "
+#~ "opt-in funnel or your sales-page. When users share or tweet your page to "
+#~ "get access to the content you locked, their friends see it and some of "
+#~ "them visit your website. That repeats again and again."
+#~ msgstr ""
+#~ "Sosyal Hasat sitenize ya da satış sayfanıza kendiliğinden viral trafik "
+#~ "getirir. Ziyaretçiler içeriğinizi görmek için paylaşım yapıp ya da "
+#~ "beğendiğinde, onların arkadaşları bu içeriği görür ve sizi ziyaret "
+#~ "ederler. Bu sürekli olarak devam eder."
+
+#~ msgid "2. More Quality Fans & Followers"
+#~ msgstr "2. Daha kaliteli beğeni ve takipçiler"
+
+#~ msgid ""
+#~ "Every blogger and internet entrepreneur knows how difficult it is to get "
+#~ "fans and followers, especially for new websites with a low budget.."
+#~ msgstr ""
+#~ "Her blog yazarı, site sahibi ya da girişimci gerçek beğeni ve takipçileri "
+#~ "almanın ne kadar zor ama önemli olduğunu bilir."
+
+#~ msgid ""
+#~ "Get every visitor of your site to follow you. Keep in contact with your "
+#~ "audience and build loyalty. Just lock some valued content and tell "
+#~ "visitors that the locked content is available only for your fans and "
+#~ "followers."
+#~ msgstr ""
+#~ "Ziyaretçilerinizin sitenizi beğenmesini sağlayın. Kitlenizde iletişimde "
+#~ "kalın ve sadakat yaratın. Değerli içerikli sınırlandırın ve "
+#~ "ziyaretçilerinize bunu sadece beğeni yapanların görebileceğini anlatın."
+
+#~ msgid "3. Better SEO Ranking"
+#~ msgstr "3. Daha iyi Google Sıralamaları"
+
+#~ msgid ""
+#~ "Google's search algorithm takes over 200 factors into consideration when "
+#~ "determining which results to show for a search query and in what order. "
+#~ "Social media is one of the most important factors in their algorithm and "
+#~ "has a significant influence on how a site ranks in a search."
+#~ msgstr ""
+#~ "Çok iyi biliyorsunuz ki Google sıralamaları için sosyal paylaşımlar çok "
+#~ "ama çok önemlidir. Hatta bir çok uzmana göre şu anda en önemli sıralama "
+#~ "faktörüdür."
+
+#~ msgid ""
+#~ "Results in the organic search results' top positions have a high number "
+#~ "of likes, shares, +1's and tweets. So, the better your social media "
+#~ "performance, the better your SEO results."
+#~ msgstr ""
+#~ "Daha fazla beğeni, +1, twit daha yüksek sıralamalar anlamına geliyor. "
+
+#~ msgid "Learn how to configure and use Social Locker"
+#~ msgstr "Sosyal Hasat'ı nasıl konfigüre edeceğinizi öğrenin"
+
+#~ msgid "More Social Buttons (+5)"
+#~ msgstr "Daha Fazla Sosyal Butonlar (+5)"
+
+#~ msgid "More Beautiful Themes (+3)"
+#~ msgstr "Daha Fazla Tema (+3)"
+
+#~ msgid "Available"
+#~ msgstr "Uygun"
+
+#~ msgid "Set On, to activate the button."
+#~ msgstr "Set On, aktifleştirmek için"
+
+#~ msgid "URL to like"
+#~ msgstr "Beğenilecek URL"
+
+#~ msgid ""
+#~ "Set an URL (a facebook page or website page) which the user has to like "
+#~ "in order to unlock your content. Leave this field empty to use an URL of "
+#~ "the page where the locker will be located."
+#~ msgstr ""
+#~ "URL Belirleyin (Facebook sayfası, web sitesi ya da özel bir URL) Bu kısım "
+#~ "kullanıcın sınırlandırıcı açması için beğen butonuna bastığında yapacağı "
+#~ "beğeniyi belirler. Eğer bulunduğu sayfayı beğenmesini istiyorsanız, bu "
+#~ "kısmı boş bırakınız."
+
+#~ msgid "Button Title"
+#~ msgstr "Buton Başlığı"
+
+#~ msgid ""
+#~ "Optional. A title of the button that is situated on the covers in the "
+#~ "themes \"Secrets\" and \"Flat\"."
+#~ msgstr "Opsiyonel: Temaların en üst kısmında yer alan başlık. "
+
+#~ msgid "like"
+#~ msgstr "beğen"
+
+#~ msgid "Show more options"
+#~ msgstr "Daha fazla seçenek"
+
+#~ msgid "I see the \"confirm\" link after a like"
+#~ msgstr "Beğeni sonrasında \"onay\" görmek istiyorum."
+
+#~ msgid ""
+#~ "<p style=\"margin-top: 8px;\">Optional. Facebook has an automatic Like-"
+#~ "spam protection that happens if the Like button gets clicked a lot (for "
+#~ "example, while testing the plugin). Don't worry, it will go away "
+#~ "automatically within some hours/days.</p><p>Just during the time, when "
+#~ "Facebook asks to confirm likes on your website, turn on this option and "
+#~ "the locker will wait the confirmation to unlock the content.</p>"
+#~ msgstr ""
+#~ "<p style=\"margin-top: 8px;\">Opsiyonel. Facebook'un bir Like-Spam "
+#~ "sistemi vardır. Özellikle aynı butona çok basıldığında bu devreye girer. "
+#~ "Dert etmeyini bu bir süre sonra otomatik olarak devre dışı kalacaktır. </"
+#~ "p><p> Bu süreç içerisinde Facebook beğeniler için onay sorar, bu durumda "
+#~ "bu seçeneği aktif hale getirin. Bu durumda Sosyal Hasat beğeni sonrası "
+#~ "ziyaretçiye onay mesajı çıkaracaktır. </p>"
+
+#~ msgid "URL to tweet"
+#~ msgstr "Twit atılacak URL"
+
+#~ msgid ""
+#~ "Set an URL which the user has to tweet in order to unlock your content. "
+#~ "Leave this field empty to use an URL of the page where the locker will be "
+#~ "located."
+#~ msgstr ""
+#~ "Ziyaretçinin sınırlandırıcıyı kaldırmak için twit atacağı URL'yi "
+#~ "belirleyin. Eğer bulunduğu sayfayı twitlemesini istiyorsanız, bu kısmı "
+#~ "boş bırakınız."
+
+#~ msgid ""
+#~ "Type a message to tweet. Leave this field empty to use default tweet "
+#~ "(page title + URL). Also you can use the shortcode [post_title] in order "
+#~ "to insert automatically a post title into the tweet."
+#~ msgstr ""
+#~ "Twit atılacak mesajı girin. Varsayılan twitin (Sayfa başlığı + URL) "
+#~ "atılmasını istiyorsanız bu kısmı boş bırakın. Ayrıca bu alanda shortcode "
+#~ "da kullanabilirsiniz."
+
+#~ msgid ""
+#~ "Optional. If you use a shorter tweet URL, paste here a full URL for the "
+#~ "counter."
+#~ msgstr ""
+#~ "Varsayılan. Kısaltılmış URL (goo.gl, bit.ly) kullanmak istiyorsanız, "
+#~ "buraya direkt kısaltılmış URL'yi girin."
+
+#~ msgid "Via"
+#~ msgstr "Aracılığıyla"
+
+#~ msgid ""
+#~ "Optional. Screen name of the user to attribute the Tweet to (without @)."
+#~ msgstr ""
+#~ "Opsiyonel. @ işareti kullanmadan Twitter adresinizi girin. Twitte siz de "
+#~ "görüneceksiniz."
+
+#~ msgid "tweet"
+#~ msgstr "twit"
+
+#~ msgid "URL to +1"
+#~ msgstr "+1'lenecek URL"
+
+#~ msgid ""
+#~ "Set an URL which the user has to +1 in order to unlock your content. "
+#~ "Leave this field empty to use an URL of the page where the locker will be "
+#~ "located."
+#~ msgstr ""
+#~ "Ziyaretçinin sınırlandırıcıyı kaldırmak için +1'leyeceği URL'yi "
+#~ "belirleyin. Eğer bulunduğu sayfayı +1'lemesini istiyorsanız, bu kısmı boş "
+#~ "bırakınız."
+
+#~ msgid "+1 us"
+#~ msgstr "Bizi +1'leyin"
+
+#~ msgid "URL to share"
+#~ msgstr "Paylaşılacak URL"
+
+#~ msgid ""
+#~ "Set an URL which the user has to share in order to unlock your content. "
+#~ "Leave this field empty to use an URL of the page where the locker will be "
+#~ "located."
+#~ msgstr ""
+#~ "Ziyaretçinin sınırlandırıcıyı kaldırmak için paylaşacağı URL'yi "
+#~ "belirleyin. Eğer bulunduğu sayfayı paylaşmasını istiyorsanız, bu kısmı "
+#~ "boş bırakınız."
+
+#~ msgid "share"
+#~ msgstr "paylaş"
+
+#~ msgid ""
+#~ "Set an URL of your Twitter profile (for example, <a href=\"https://"
+#~ "twitter.com/byonepress\" target=\"_blank\">https://twitter.com/"
+#~ "byonepress</a>)."
+#~ msgstr ""
+#~ "Twitter profilinizin URL'sini giriniz. (örneğin: <a href=\"https://"
+#~ "twitter.com/ntvspor\" target=\"_blank\">https://twitter.com/ntvspor </a>)."
+
+#~ msgid "Hide Username"
+#~ msgstr "Gizli Kullanıcı Adı"
+
+#~ msgid ""
+#~ "Set On to hide your username on the button (makes the button shorter)."
+#~ msgstr "Butonu daha kısa yapmak için bu seçeneği kullanın"
+
+#~ msgid "follow us"
+#~ msgstr "bizi takip et"
+
+#~ msgid "Channel ID"
+#~ msgstr "Kanal ID"
+
+#~ msgid ""
+#~ "Optional. A visible title of the buttons that is used in some themes (by "
+#~ "default only in the Secrets theme)."
+#~ msgstr "Opsiyonel. Bazı temalarda ayrıca bir başlık alanı vardır. "
+
+#~ msgid "Youtube"
+#~ msgstr "Youtube"
+
+#~ msgid ""
+#~ "Please make sure that you <a href=\"%s\">set a facebook app id</a> for "
+#~ "your domain, otherwise the button will not work. The Facebook Share "
+#~ "button requires an app id registered for a domain where it's used."
+#~ msgstr ""
+#~ "Bu domain için <a href=\"%s\">facebook facebook app id kurduğunuzdan</a> "
+#~ "emin oldun. Kurmazsanız bu buton çalışmaz. Facebook paylaş butonu "
+#~ "Facebook üzerinden app id kaydı gerekmektedir."
+
+#~ msgid "Feed Dialog Or Share Dialog"
+#~ msgstr "Feed Dialog  ya da Feed Dialog "
+
+#~ msgid ""
+#~ "By default the plugin uses the Facebook <a href=\"https://developers."
+#~ "facebook.com/docs/sharing/reference/feed-dialog/\" target=\"_blank\">Feed "
+#~ "Dialog</a>. But some users believe that posts published via the Facebook "
+#~ "<a href=\"https://developers.facebook.com/docs/sharing/reference/share-"
+#~ "dialog\" target=\"_blank\">Share Dialog</a> appear more often on the top "
+#~ "of the news feeds and this way bring more traffic.  Both the dialogue "
+#~ "perform the same action (sharing) and look approximately equally."
+#~ msgstr ""
+#~ "Varsayılan olarak bu eklenti Facebook <a href=\"https://developers."
+#~ "facebook.com/docs/sharing/reference/feed-dialog/\" target=\"_blank\">Feed "
+#~ "Dialog</a> kullanır. Bazı kullanıcılar <a href=\"https://developers."
+#~ "facebook.com/docs/sharing/reference/share-dialog\" target=\"_blank"
+#~ "\">Share Dialog</a> ile paylaşılan içeriklerin daha çok etkileşim "
+#~ "aldığını ve daha üstte göründüğüne inanırlar. İki politika da bize ayrı "
+#~ "görünüyor :)"
+
+#~ msgid "Use Facebook Share Dialog"
+#~ msgstr "Facebook Share Dialog Kullan"
+
+#~ msgid ""
+#~ "Optional. Set On to use the Facebook Share Dialog instead of the Facebook "
+#~ "Feed Dialog. Use the <A href=\"http://davidwalsh.name/facebook-meta-tags"
+#~ "\" target=\"_blank\">Open Graph Meta Tags</a> to specify the message to "
+#~ "share for the Share Dialog."
+#~ msgstr ""
+#~ "Opsiyonel. Facebook Share Dialog kullanın. Bunun için <A href=\"http://"
+#~ "davidwalsh.name/facebook-meta-tags\" target=\"_blank\">Open Graph Meta "
+#~ "Tags</a> 'i iyi kullanmanızı önemle tavsiye ederiz."
+
+#~ msgid "Message To Share"
+#~ msgstr "Paylaşılacak İleti"
+
+#~ msgid ""
+#~ "By default the message is extracted from the page content (from the <A "
+#~ "href=\"http://davidwalsh.name/facebook-meta-tags\" target=\"_blank\">Open "
+#~ "Graph Meta Tags</a>). But for the Feed Dialog you can set an own message."
+#~ msgstr ""
+#~ "Varsayılan ileti sayfa içeriğinizden çekilir. (from the <A href=\"http://"
+#~ "davidwalsh.name/facebook-meta-tags\" target=\"_blank\">Open Graph Meta "
+#~ "Tags</a> kullanılır). Fakat Feed Dialog'da mesajınızı kendiniz "
+#~ "belirleyebilirsiniz."
+
+#~ msgid "Optional. The name of the link attachment."
+#~ msgstr "Opsiyonel. Paylaşımın ismi."
+
+#~ msgid "Caption"
+#~ msgstr "Caption"
+
+#~ msgid ""
+#~ "Optional. The caption of the link (appears beneath the link name). If not "
+#~ "specified, this field is automatically populated with the URL of the link."
+#~ msgstr ""
+#~ "Opsiyonel. Linkin Caption'ı. Belirlenmezse otomatik olarak URL'den "
+#~ "türetilir."
+
+#~ msgid ""
+#~ "Optional. The description of the link (appears beneath the link caption). "
+#~ "If not specified, this field is automatically populated by information "
+#~ "scraped from the link, typically the title of the page."
+#~ msgstr "Opsiyonel. Linkin açıklaması."
+
+#~ msgid "Image"
+#~ msgstr "Görsel"
+
+#~ msgid ""
+#~ "Optional. The URL of a picture attached to this post. The picture must be "
+#~ "at least 50px by 50px (though minimum 200px by 200px is preferred) and "
+#~ "have a maximum aspect ratio of 3:1."
+#~ msgstr ""
+#~ "Opsiyonel. Paylaşım esnasında görüntülecek görselin URL'si. En düşük 50px "
+#~ "x 50px ancak biz 200px - 200px öneriyoruz. En geniş oran ise 3:1. "
+
+#~ msgid "User to Follow"
+#~ msgstr "Takip edilecek kullanıcı"
+
+#~ msgid ""
+#~ "<strong>Warning!</strong> The Google Share button will not appear on "
+#~ "mobile devices because it's not possible to catch the moment when the "
+#~ "mobile user clicks on the button. Also please pay attention the plugin "
+#~ "cannot track whether the user shared actually or not. If the user closes "
+#~ "the Share Dialog without sharing, the content will be unlocked."
+#~ msgstr ""
+#~ "<strong>Uyarı!</strong> Google paylaşımı mobil kullanıcılara "
+#~ "görünmeyektir. Çünkü mobilde paylaşımı takip etmek mümkün değil. Ayrıca "
+#~ "Google politikaları dahilinde ziyaretçinin tam olarak paylaşım yapıp, "
+#~ "yapmadığını da anlamak mümkün değil. Eğer paylaşım kutusunu açıp - "
+#~ "kapatırsa, içerik yine de açılacaktır."
+
+#~ msgid ""
+#~ " The YouTube Button requires the Google Client ID linked to your domain. "
+#~ "Before using the button, please <a href=\"%s\" target=\"_blank\">set the "
+#~ "Client ID</a>."
+#~ msgstr ""
+#~ "Youtube butonu domaininiz ile eşleştirilmiş bir Google Client ID "
+#~ "istemektedir. Butonu kullanmadan önce <a href=\"%s\" target=\"_blank"
+#~ "\">Client ID'nizi alın</a>."
+
+#~ msgid "Share"
+#~ msgstr "Paylaş"
+
+#~ msgid ""
+#~ "Set any URL to Share (for example, main page of your site). Leave this "
+#~ "field empty to use a current page."
+#~ msgstr ""
+#~ "Paylaşılacak URL belirleyin. Bu kısmı boş bırakırsanız mevcut sayfa "
+#~ "paylaşılır."
+
+#~ msgid "Show counters"
+#~ msgstr "Sayaçları göster"
+
+#~ msgid "Hint"
+#~ msgstr "İpucu"
+
+#~ msgid "Drag and drop the tabs to change the order of the buttons."
+#~ msgstr "Tab'ları sürükle - bırak yaparak sıralamaları değiştirebilirsiniz."
+
+#~ msgid "Total"
+#~ msgstr "Toplam\t"
+
+#~ msgid "The total number of unlocks made by visitors."
+#~ msgstr "Ziyaretçiler tarafından yapılmış toplam sınırlandırıcı açmaları."
+
+#~ msgid "Unlocks Via"
+#~ msgstr "Açma Kaynakları:"
+
+#~ msgid "FB Like"
+#~ msgstr "FB Beğeni"
+
+#~ msgid "FB Share"
+#~ msgstr "FB Paylaşım"
+
+#~ msgid "Twitter Tweet"
+#~ msgstr "Twitter Twit"
+
+#~ msgid "Twitter Follow"
+#~ msgstr "Twitter Takip"
+
+#~ msgid "Google +1s"
+#~ msgstr "Google +1"
+
+#~ msgid "Google Share"
+#~ msgstr "Google Paylaş"
+
+#~ msgid "YouTube"
+#~ msgstr "Youtube"
+
+#~ msgid "LinkedIn Share"
+#~ msgstr "Linkedin Paylaş"
+
+#~ msgid "FB Likes"
+#~ msgstr "FB Beğenileri"
+
+#~ msgid "FB Shares"
+#~ msgstr "FB Paylaşımları"
+
+#~ msgid "Google Shares"
+#~ msgstr "Google Paylaşımları"
+
+#~ msgid "LinkedIn Shares"
+#~ msgstr "Linkedin Paylaşımları"
+
+#~ msgid ""
+#~ "<p>Asks users to \"pay with a like\" or share to unlock content.</"
+#~ "p><p>Perfect way to get more followers, attract social traffic and "
+#~ "improve some social metrics.</p>"
+#~ msgstr ""
+#~ "<p>Kullanıcıya \"like ile öde \" , \"like ile teşekkür et \"  diye sorar. "
+#~ "</p><p>Bu daha çok takipçi almak, sosyal trafik artırmak ve sosyal "
+#~ "metrikleri artırmak için harika bir yoldur.<p>"
+
+#~ msgid "Learn how to use the plugin <i class=\"fa fa-lightbulb-o\"></i>"
+#~ msgstr ""
+#~ "Eklentiyi nasıl kullanacağınızı öğrenin <i class=\"fa fa-lightbulb-o\"></"
+#~ "i>"
+
+#~ msgid ""
+#~ "Please, activate the plugin to get started. Enter a key \n"
+#~ "                                    you received with the plugin into the "
+#~ "form below."
+#~ msgstr ""
+#~ "Lütfem eklentiyi aktif hale getirin. Size verilmiş olan  \n"
+#~ "                                    lisans kodunu aşağıdaki ilgili kısma "
+#~ "giriniz."
+
+#~ msgid "Plugin: Social Locker"
+#~ msgstr "Eklenti: Sosyal Hasat"
+
+#~ msgid "What is it?"
+#~ msgstr "Sosyal Hasat nedir?"
+
+#~ msgid ""
+#~ "5 extra stunning themes, 8 social buttons, the blurring effect, advanced "
+#~ "options, new features & updates every week, dedicated support and more."
+#~ msgstr ""
+#~ "5 tane daha harika tasarım, 8 sosyal buton, yeni efektler, gelişmiş "
+#~ "seçenekler, her hafta yeni eklenen özellikler, gelişmiş destek ve daha "
+#~ "fazlası"
+
+#~ msgid ""
+#~ "Drive more traffic and build quality followers with Social Locker Premium!"
+#~ msgstr ""
+#~ "Sosyal Hasat Premium ile daha fazla trafik alın ve daha kaliteli "
+#~ "takipçiler kazanın."
+
+#~ msgid ""
+#~ "5 extra stunning themes, 8 social buttons, the blurring effect, advanced "
+#~ "options, new features & updates every week, dedicated support and more. "
+#~ "Drive more traffic and build quality followers with Social Locker Premium!"
+#~ msgstr ""
+#~ "5 tane daha harika tasarım, 8 sosyal buton, yeni efektler, gelişmiş "
+#~ "seçenekler, her hafta yeni eklenen özellikler, gelişmiş destek ve daha "
+#~ "fazlası... Sosyal Hasat Premium ile daha fazla trafik alın ve daha "
+#~ "kaliteli takipçiler kazanın."
+
+#~ msgid "Try the premium version for 7 days for free!"
+#~ msgstr "Premium sürümü 7 gün deneyin."
+
+#~ msgid "Activate Premium"
+#~ msgstr "Sosyal Hasat Premium'u aktifleştirin."
+
+#~ msgid "No, thanks, not now"
+#~ msgstr "Hayır, teşekkürler. Şimdi değil..."
+
+#~ msgid "Learn More & Upgrade"
+#~ msgstr "Daha fazla öğrenin & yükseltin"
+
+#~ msgid "likes"
+#~ msgstr "beğeniler"
+
+#~ msgid "shares"
+#~ msgstr "paylaşımlar"
+
+#~ msgid "tweets"
+#~ msgstr "twitler"
+
+#~ msgid "followers"
+#~ msgstr "takipçiler"
+
+#~ msgid "pluses"
+#~ msgstr "+1'ler"
+
+#~ msgid "emails"
+#~ msgstr "emailler"
+
+#~ msgid ""
+#~ "Congrats! You collected more %s emails via <strong>Social Locker</strong>."
+#~ msgstr ""
+#~ "Tebrikler! <strong>Social Hasat</strong> ile daha fazla %s emails "
+#~ "topladınız!"
+
+#~ msgid "Congrats! You gained more %s %s via <strong>Social Locker</strong>."
+#~ msgstr ""
+#~ "Tebrikler! <strong>Social Hasat</strong> ile daha fazla %s %s "
+#~ "geliştirdiniz."
+
+#~ msgid "+"
+#~ msgstr "+"
+
+#~ msgid "!"
+#~ msgstr "!"
+
+#~ msgid ""
+#~ "Please do us a BIG favor, give the plugin a 5-star rating on wordpress."
+#~ "org."
+#~ msgstr "Bize bir iyilik yapın ve Wordpress.org'da 5 yıldız verin!"
+
+#~ msgid "Sure, you deserved it!"
+#~ msgstr "Tabii ki, bunu hak ettiniz!"
+
+#~ msgid "I already did"
+#~ msgstr "Zaten verdim!"
+
+#~ msgid "No, not good enough"
+#~ msgstr "Hayır, yeterince iyi değilsiniz..."
+
+#~ msgid ""
+#~ "Want more %s? Try the <a href=\"%s\" target=\"_blank\">premium version</"
+#~ "a>."
+#~ msgstr ""
+#~ "Daha fazla %s? a href=\"%s\" target=\"_blank\">Premium versiyonu </a> "
+#~ "deneyin."
+
+#~ msgid "Invalid request type."
+#~ msgstr "Tanımsız istek türü."
+
+#~ msgid "You've got the 40% discount on the StyleRoller Add-On!"
+#~ msgstr "StyleRoller eklentisinde %40 indiriminiz var!"
+
+#~ msgid "(Expires In %sh)"
+#~ msgstr "(%sh içerisinde dolacak)"
+
+#~ msgid ""
+#~ "<p>It's a day since you activated the Social Locker. We would like to "
+#~ "make you a small gift, the 40% discount on the StyleRoller Add-on. This "
+#~ "is a time-limited offer which will be valid within 2 days.</p><p>The "
+#~ "StyleRoller Add-on will help you to brand the Social Locker to fit the "
+#~ "look and feel of your website, create your own unique attention-grabbing "
+#~ "themes and, as a result, increase the number of likes and shares.</p>"
+#~ msgstr ""
+#~ "<p>Sosyal Hasat'ı aktifleştirmenizin üstünden 1 gün geçti. Size küçük bir "
+#~ "hediye hazırladık. StyleRoller eklentisinde %40 indiriminiz var. Bu "
+#~ "teklif sadece 2 gün geçerli olacak.</p><p>StyleRoller eklentisi "
+#~ "sınırlandırıcılarınızın size, markanıza ve web sitenize özel görünmesini "
+#~ "sağlayacak tasarım ve özelleştirme seçenekleri sunuyor.</p>"
+
+#~ msgid "Get StyleRoller For 40% Off"
+#~ msgstr "%40 indirimle StyleRoller'ı al."
+
+#~ msgid "Hide this message"
+#~ msgstr "Teklifi gizle"
+
+#~ msgid "Last Chance To Get StyleRoller For 40% Off!"
+#~ msgstr "StyleRoller'ı %40 indirimle almak için son şans."

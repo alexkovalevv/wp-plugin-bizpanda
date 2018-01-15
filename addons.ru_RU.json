@@ -1,0 +1,46 @@
+{
+  "buttons_pack": {
+    "categories": [
+      "sociallocker"
+    ],
+    "title": "Social buttons pack",
+    "image_url": "http://cconp.s3.amazonaws.com/addons/addon-buttons-pack-preview.jpg",
+    "description": "Расширяет набор социальных кнопок для социального замка. В набор входят социальные сети: Вконтакте, Одноклассники, Мой мир, Instagram, Pinterest, Draugiem, Livejournal.",
+    "version": "1.0.0",
+    "url": ""
+  },
+  "popups": {
+    "categories": [
+      "sociallocker",
+      "optin-panda",
+      "paylocker"
+    ],
+    "title": "Popups mode",
+    "image_url": "http://cconp.s3.amazonaws.com/addons/addon-popup-mode-preview.jpg",
+    "description": "Добавялет возможность создавать замки во всплывающем окне. Имеет набор функций и различных сценариев для вызова всплывающих окон.",
+    "version": "1.0.0",
+    "url": ""
+  },
+  "step-to-step": {
+    "categories": [
+      "sociallocker",
+      "optin-panda"
+    ],
+    "image_url": "http://cconp.s3.amazonaws.com/addons/addon-step-to-step-preview.jpg",
+    "title": "Step to step",
+    "description": "Это дополнение позволяет использовать несколько замков различных типов в одном виджете и открывать их поочередно. Пользователь получит бонус, когда откроет все установленные в очередь замки. Благодаря этому дополнению вы можете получить в два раза больше лидов.",
+    "version": "1.0.0",
+    "url": ""
+  },
+  "themes_pack": {
+    "categories": [
+      "sociallocker",
+      "optin-panda"
+    ],
+    "image_url": "https://www.cozmoslabs.com/wp-content/uploads/2016/04/full_addon_pms_email_reminder.png",
+    "title": "5 новых тем",
+    "description": "Новые и современные темы, адаптивные для мобильных устройв, с поддержкой пошаговых заданий и всплывающих окон.",
+    "version": "1.0.0",
+    "url": ""
+  }
+}
