@@ -25,10 +25,7 @@
 [submodule "libs/factory/viewtables"]
 	path = libs/factory/viewtables
 	url = ssh://git@bitbucket.org/webcraftic/wp-plugins-factory-viewtables/
-[submodule "libs/factory/addons"]
-	path = libs/factory/addons
-	url = ssh://git@bitbucket.org/webcraftic/wp-plugins-factory-addons/
-	
+
 [submodule "libs/onepress/compiler"]
 	path = libs/onepress/compiler
 	url = ssh://git@bitbucket.org/webcraftic/wp-plugins-factory-compiler/
