@@ -145,7 +145,7 @@
 		<?php
 		}
 
-		public function actionPostRowActions($actions)
+		/*public function actionPostRowActions($actions)
 		{
 			global $post;
 
@@ -160,6 +160,6 @@
 			);
 
 			return $temporaryActions;
-		}
+		}*/
 	}
 /*@mix:place*/
